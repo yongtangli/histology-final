@@ -205,11 +205,11 @@
     "num": "08223",
     "path": "midterm-image/b08lab/08223.png",
     "answer": [
-      "Motor neuron",
-      "silver stain"
+      "Motor neuron/silver stain",
+      "multipolar neuron/silver stain"
     ],
     "explanation": "圖中所指的細胞體積大、呈多角形，可見塊狀的 Nissel bodies，且 cell body 周圍無 satellite cells 圍繞，為 spinal cord 的 multipolar neuron 的特徵。",
-    "description": "箭頭所指為何種細胞？染色方式？"
+    "description": "箭頭所指為何種細胞/染色方式？"
   },
   {
     "num": "08224",
