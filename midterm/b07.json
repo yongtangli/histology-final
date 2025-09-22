@@ -216,11 +216,11 @@
     "num": "07123",
     "path": "midterm-image/b07/10723.png",
     "answer": [
-      "A: smooth muscle",
-      "B: tendon(dense regular)"
+      "smooth muscle/tendon",
+      "smooth muscle/dense regular connective tissue"
     ],
     "explanation": "同上題，另外dense regular CNT的fiber排列緊密\n【出處】共筆Vol.4 p.29",
-    "description": "分別寫出Ａ及Ｂ之組織名稱？"
+    "description": "分別寫出Ａ及Ｂ之組織名稱？(格式:A組織/B組織)"
   },
   {
     "num": "07124",
