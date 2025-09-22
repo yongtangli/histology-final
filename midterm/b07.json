@@ -298,11 +298,10 @@
     "num": "07131",
     "path": "midterm-image/b07/10731.png",
     "answer": [
-      "Mast cell",
-      "Metachromasia"
+      "Mast cell/Metachromasia"
     ],
     "explanation": "Metachromasia：Toluidine blue stains granules 被mast cell中的大量陰離子抓住，使染劑折射率改變（藍色轉為紫紅色）\n【出處】共筆Vol.4 p.19, 46",
-    "description": "染上紅色的細胞名稱？將染劑由藍轉紅的特性為何？"
+    "description": "染上紅色的細胞名稱/將染劑由藍轉紅的特性為何？(格式:細胞/特性)"
   },
   {
     "num": "07132",
