@@ -227,12 +227,11 @@
     "num": "10125",
     "path": "midterm-image/b10/10125.png",
     "answer": [
-      "A:Skeletal muscle",
-      "B:Tendon",
-      "dense regular connective tissue"
+      "A:Skeletal muscle/B:Tendon",
+      "A:skeletal muscle/B:dense regular connective tissue"
     ],
     "explanation": "A 為細胞核在邊緣的骨骼肌。B 為 dense regular connective tissue 的縱切面,可能為 tendon。",
-    "description": "請問A、B分別為甚麼構造？"
+    "description": "請問A、B分別為甚麼構造？(格式:A:(A構造)/B:(B構造))"
   },
   {
     "num": "10126",
