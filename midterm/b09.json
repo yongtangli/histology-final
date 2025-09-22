@@ -187,11 +187,10 @@
     "num": "09124",
     "path": "midterm-image/b09/09124.png",
     "answer": [
-      "A: cardiac muscle cell",
-      "B: Purkinje fiber"
+      "cardiac muscle cell/Purkinje fiber"
     ],
     "explanation": "由細胞核在細胞中間可辨認為心肌細胞，非skeletal muscle cell，而Purkinje cell為特化心肌細胞，顏色更淺、細胞更大。",
-    "description": "寫出 A,B 分別為何種細胞？"
+    "description": "寫出 A,B 分別為何種細胞？(格式:A細胞/B細胞)"
   },
   {
     "num": "09125",
