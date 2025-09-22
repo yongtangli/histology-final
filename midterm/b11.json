@@ -307,13 +307,10 @@
     "num": "11133",
     "path": "midterm-image/b11/11133.png",
     "answer": [
-      "White Adipose tissue",
-      "Adipose tissue",
-      "osmic acid",
-      "fixation"
+      "White Adipose tissue/ osmic acid"
     ],
     "explanation": "Osmic acid 染色並固定脂肪，被染到的地方呈現黑色。",
-    "description": "這是什麼組織？製備方法為何？"
+    "description": "這是什麼組織/製備方法為何？"
   },
   {
     "num": "11134",
