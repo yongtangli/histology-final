@@ -57,11 +57,10 @@
     "num": "05107",
     "path": "midterm-image/b05/05107.png",
     "answer": [
-      "Skeletal muscle",
-      "tendon"
+      "skeletal muscle/tendon"
     ],
     "explanation": "此細胞具有橫紋，多核且分佈在細胞邊緣，推測是骨骼肌細胞，而其旁邊有連接肌腱，為dense regular CNT，collagen fiber之間有紡錘狀的fibroblast",
-    "description": "下列是哪兩種組織？（上，下）"
+    "description": "下列是哪兩種組織？（格式:上部組織/下部組織）"
   },
   {
     "num": "05108",
