@@ -171,11 +171,10 @@
     "num": "09121",
     "path": "midterm-image/b09/09121.png",
     "answer": [
-      "A: brown adipose tissue",
-      "B: white adipose tissue"
+      "brown adipose tissue/white adipose tissue"
     ],
     "explanation": "A:細胞核在中間，一個細胞含有多個脂肪油滴。B:中間融合一個大脂肪油滴，細胞核和其他胞器被擠到邊緣。",
-    "description": "寫出 A,B 分別為何種組織？"
+    "description": "寫出 A,B 分別為何種組織？(格式:A組織/B組織)"
   },
   {
     "num": "09122",
