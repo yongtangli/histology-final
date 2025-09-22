@@ -288,11 +288,12 @@
     "num": "11131",
     "path": "midterm-image/b11/11131.png",
     "answer": [
-      "Goblet cell",
-      "PAS"
+      "Goblet cell/periodic acid schiff stain",
+      "Goblet cell/periodic acid schiff reaction",
+      "Goblet cell/periodic acid schiff "
     ],
     "explanation": "Goblet cell 為空泡狀的分泌細胞，可用PAS染色",
-    "description": "深紫色細胞為何？用何者染色方式製備？"
+    "description": "深紫色細胞為何/用何者染色方式製備(寫全名)"
   },
   {
     "num": "11132",
