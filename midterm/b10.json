@@ -303,11 +303,10 @@
     "num": "10133",
     "path": "midterm-image/b10/10133.png",
     "answer": [
-      "A:hyaline cartilage",
-      "B:elastic cartilage"
+      "hyaline cartilage/elastic cartilage"
     ],
     "explanation": "A: 1. 可見空腔狀結構 lacuna，內有軟骨細胞(chondrocyte)。 2. 每 3 到 5 個 lacunae 形成一個 isogenic group。B: Orcein stains 染 elastic fibers 呈現棕色，為特殊染色，且可見到 lacuna 中間有細胞，推測是軟骨組織。",
-    "description": "寫出A和B兩張圖片中的組織名稱？"
+    "description": "寫出A和B兩張圖片中的組織名稱？(格式:A組織名稱/B組織名稱)"
   },
   {
     "num": "10134",
