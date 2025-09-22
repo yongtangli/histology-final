@@ -86,11 +86,10 @@
     "num": "11210",
     "path": " midterm-image/b11lab/11210.png",
     "answer": [
-      "Mast cell",
-      "Metachromasia"
+      "Mast cell/Metachromasia"
     ],
     "explanation": "Mast cell 有 metachromasia（異染性）的特質， toluidine blue 本來為藍色，但 mast cell 會被其染為紅色（實際觀察為紫色），顆粒感明顯。",
-    "description": "畫面中的細胞與染色特性(toluidine blue)"
+    "description": "畫面中的細胞/染色特性(此為toluidine blue染色)"
   },
   {
     "num": "11211",
