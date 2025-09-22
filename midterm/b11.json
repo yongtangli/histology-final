@@ -12,12 +12,11 @@
     "num": "11102",
     "path": "midterm-image/b11/11102.png",
     "answer": [
-      "Large vein",
-      "vena cava",
-      "Tunica media"
+      "tunica media/Large vein",
+      "tunica media/vena cava"
     ],
     "explanation": "可分出tunica intima、tunica media、tunica adventitia三層。其中tunica intima非常薄，tunica media中可觀察到環走縱切（l.s.）的smooth muscle，tunica adventitia中則可觀察到一束束縱走橫切（c.s.）的smooth muscle，其間淡粉色帶狀分布者為collagen fiber。Large vein的tunica adventitia比tunica media厚很多。",
-    "description": "圖中箭頭所指細胞名稱為何？"
+    "description": "圖中雙箭頭線所指範圍為何/這整個玻片是什麼組織？"
   },
   {
     "num": "11103",
