@@ -77,11 +77,10 @@
     "num": "09110",
     "path": "midterm-image/b09/09110.png",
     "answer": [
-      "A: Smooth muscle",
-      "B: Cardiac muscle"
+      "Smooth muscle/Cardiac muscle"
     ],
     "explanation": "心肌細胞橫切面空隙較多。",
-    "description": "下列圖片中 A,B 各為何？"
+    "description": "下列圖片中 A,B 各為何？(格式:A構造名稱/B構造名稱)"
   },
   {
     "num": "09112",
