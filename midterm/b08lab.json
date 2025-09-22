@@ -41,11 +41,10 @@
     "num": "08205",
     "path": "midterm-image/b08lab/08205.png",
     "answer": [
-      "D",
       "Neutrophil"
     ],
     "explanation": "Neutrophil 在 LM 下可見細胞質有染色顆粒，為顆粒球，且核分裂成多葉；在 EM 下可見 3 至 5 葉的細胞核，內有深染的 heterochromatin，細胞質有深色 azurophilic granules 和顏色較淺、尺寸較小的 specific granules，可觀察到偽足。",
-    "description": "選擇題，看LM找EM？選項同上題。"
+    "description": "這是什麼細胞"
   },
   {
     "num": "08206",
