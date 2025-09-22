@@ -314,11 +314,10 @@
     "num": "10134",
     "path": "midterm-image/b10/10134.png",
     "answer": [
-      "tunica adventitia",
-      "vasa vasorum"
+      "vasa vasorum/tunica adventitia"
     ],
     "explanation": "在血管分層中最外層的為 tunica adventitia，其中可能有 vasa vasorum 幫忙運輸養分及廢物",
-    "description": "請寫出框框內的是什麼東西，還有箭頭標示的整個區域名稱"
+    "description": "請寫出框框內的是什麼東西，還有箭頭標示的整個區域名稱(格式:框框內結構/雙箭頭所指全區域)"
   },
   {
     "num": "10135",
