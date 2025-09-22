@@ -108,11 +108,10 @@
     "num": "08112",
     "path": "midterm-image/b08/08112.png",
     "answer": [
-      "Brown adipose tissue",
-      "White adipose tissue"
+      "Brown adipose tissue/White adipose tissue"
     ],
     "explanation": "圖中L代表lipid，A圖中央白色構造為細胞核，依比例可知周圍的油滴分佈於同一個細胞內，且該細胞內含有許多粒線體（圖中灰黑色小顆粒），為brown adipose tissue的特徵。B圖則可看見細胞被一個巨大的油滴佔滿，且核被擠到邊緣，為white adipose tissue的特徵。\n【出處】（08）共筆Vol.4 P.22,23",
-    "description": "A、B分別為什麼組織？"
+    "description": "A、B分別為什麼組織？(格式:A組織/B組織)"
   },
   {
     "num": "08113",
