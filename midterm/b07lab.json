@@ -12,11 +12,10 @@
       "num": "7202",
       "path": "7202.png",
       "answer": [
-        "Choroid plexus",
-        "fenestrated capillary"
+        "Choroid plexus/fenestrated capillary"
       ],
       "explanation": "圖中圈選的組織散布在空腔內，如一串葡萄的形狀，為choroid plexus，緊密排列的ependymal cells包著fenestrated vessels與loose CNT。\n【出處】07共筆 Vol.8 P.21, 40",
-      "description": "圖中所示為何種構造？構造中為哪種血管？"
+      "description": "圖中所示為何種構造/構造中為哪種血管？"
     },
     {
       "num": "7203",
@@ -42,21 +41,19 @@
       "num": "7205",
       "path": "7205.png",
       "answer": [
-        "White adipose tissue",
-        "osmic acid"
+        "White adipose tissue/osmic acid"
       ],
       "explanation": "脂肪組織可被osmic acid（鋨酸）利用滲透作用固定，並被染成黑色或棕黑色，可完整保存。切片周圍的脂肪細胞固定較佳，靠近中央的因固定液不易滲透而留下空泡。\n【出處】共筆 Vol.4 P.41",
-      "description": "圖中為何種組織？何種染色方式？"
+      "description": "圖中為何種組織/何種染色方式"
     },
     {
       "num": "7206",
       "path": "7206.png",
       "answer": [
-        "Junctional complex",
-        "terminal bar"
+        "Junctional complex/terminal bar"
       ],
       "explanation": "Terminal bar (LM) = Junctional complex (EM) = Tight junction(ZO) + Intermediate junction (ZA) + Desmosome (MA)\n【出處】共筆 Vol.2 P.25",
-      "description": "圖中所示為何種構造（EM）？在LM下稱作？"
+      "description": "圖中所示為何種構造（EM）/在LM下稱作？"
     },
     {
       "num": "7207",
@@ -72,11 +69,11 @@
       "num": "7208",
       "path": "7208.png",
       "answer": [
-        "Motor neuron",
-        "silver stain"
+        "Motor neuron/silver stain",
+        "multipolar neuron/silver stain"
       ],
       "explanation": "此片為silver stain，在H&E stain下沒辦法將neuron process染的清楚，故silver stain染色重點在於process。可見perineuronal space。\n【出處】07共筆 Vol.7 P.36",
-      "description": "箭頭所指為何種細胞？"
+      "description": "箭頭所指為何種細胞/何種染色"
     },
     {
       "num": "7209",
@@ -120,7 +117,8 @@
       "num": "7215",
       "path": "7215.png",
       "answer": [
-        "Vena cava"
+        "Vena cava",
+        "large vein"
       ],
       "explanation": "可以分出最薄的tunica intima（epithelium）、層數少有環走smooth muscle的tunica media和最厚的tunica adventitia（縱走橫切）。tunica adventitia比tunica media厚非常多。\n【出處】07共筆 Vol.10 P.54",
       "description": "視野中為何種構造？"
@@ -166,7 +164,8 @@
       "num": "7220",
       "path": "7220.png",
       "answer": [
-        "Purkinje cell"
+        "Purkinje cell",
+        "Purkinje cell of cerebellum"
       ],
       "explanation": "圖中箭頭所指的細胞較大、顏色偏紅，細胞呈現錐狀，可看到細胞有許多process往外伸，為Purkinje cell 的特徵。\n【出處】07共筆 Vol.8 P.26",
       "description": "箭頭所指為何種構造？"
@@ -204,13 +203,10 @@
       "num": "7224",
       "path": "7224.png",
       "answer": [
-        "A",
-        "noncornified stratified squamous epithelium",
-        "B",
-        "Dense irregular connective tissue"
+        "noncornified stratified squamous epithelium/Dense irregular connective tissue"
       ],
       "explanation": "(A) 多層細胞，越上面越扁平，最表面一層為 squamous，且表面無角質化，所以是 noncornified stratified squamous epithelium。\n(B) 分布在表皮下方的真皮（dermis）。Fiber 排列緊密但不規則，有各種走向。\n【出處】共筆 Vol.2 P.9, Vol.4 P.35",
-      "description": "視野中（A）、（B）分別為何種組織？"
+      "description": "視野中（A）、（B）分別為何種組織？(格式:A組織/B組織)"
     },
     {
       "num": "7225",
@@ -302,7 +298,7 @@
       "num": "7234",
       "path": "7234.png",
       "answer": [
-        "Pseudostratified ciliated columnar epithelium"
+        "Pseudostratified columnar epithelium with cilia"
       ],
       "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為cilia（microvilli只會是地毯狀）。答案亦可寫Pseudostratified columnar epithelium with cilia。\n【出處】共筆 Vol.2 P.7; Vol.3 P.20",
       "description": "視野中為何種組織？"
