@@ -86,11 +86,10 @@
     "num": "05110",
     "path": "midterm-image/b05/05110.png",
     "answer": [
-      "pseudostratified columnar epithelium with cilia",
-      "basal body"
+      "pseudostratified columnar epithelium with cilia/basal body"
     ],
     "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為cilia（microvilli只會是地毯狀)，箭頭所指深染紅線為cilia基部的basal body",
-    "description": "下列是何種組織？箭頭所指為何種構造？"
+    "description": "下列是何種組織/箭頭所指為何種構造？"
   },
   {
     "num": "05111",
@@ -141,10 +140,11 @@
     "num": "05116",
     "path": "midterm-image/b05/05116.png",
     "answer": [
-      "zone of proliferation/endochondral ossification"
+      "zone of proliferation/endochondral ossification/epiphyseal plate of long bone",
+      "proliferation zone/endochondral ossification/epiphyseal plate of long bone"
     ],
     "explanation": "由圖中可見，軟骨細胞數量極多，彷彿正在增生，因此為 proliferation zone",
-    "description": "下列是何種區域/何種成骨方式"
+    "description": "下列是何種區域/何種成骨方式/發生在哪個區域of哪種骨頭"
   },
   {
     "num": "05117",
@@ -159,7 +159,8 @@
     "num": "05118",
     "path": "midterm-image/b05/05118.png",
     "answer": [
-      "Fibrocartilage"
+      "Fibrocartilage",
+      "Fibrous cartilage"
     ],
     "explanation": "含regular fibers，有成列的 chondrocytes in lacunae",
     "description": "下列是何種組織？"
@@ -186,7 +187,7 @@
     "num": "05121",
     "path": "midterm-image/b05/05121.png",
     "answer": [
-      "compact bone decalcified bone"
+      "compact bone /decalcified bone"
     ],
     "explanation": "染成紅色，視野下可見有機質",
     "description": "下列是何種組織/何種製備方式"
@@ -301,10 +302,10 @@
     "num": "05133",
     "path": "midterm-image/b05/05133.png",
     "answer": [
-      "Tunica adventitia"
+      "large vein/Tunica adventitia"
     ],
     "explanation": "此圖為Large vein，其tunica adventitia為三層中最厚的一層，有縱走平滑肌束，並穿插許多collagen fibers。",
-    "description": "下列是何種構造？"
+    "description": "下列是什麼組織/這種組織中的哪種構造？"
   },
   {
     "num": "05134",
