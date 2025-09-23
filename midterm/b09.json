@@ -238,21 +238,20 @@
     "num": "09130",
     "path": "midterm-image/b09/09130.png",
     "answer": [
-      "Elastic cartilage",
-      "orcein stain"
+      "Elastic cartilage/orcein stain"
     ],
     "explanation": "Elastic cartilage需要特殊染色，orcein stain下為紅棕色。",
-    "description": "寫出下圖組織及染色方式分別為何？"
+    "description": "寫出下圖組織/染色方式"
   },
   {
     "num": "09131",
     "path": "midterm-image/b09/09131.png",
     "answer": [
-      "A: fibrous cartilage",
-      "B: tendon"
+      "fibrous cartilage/tendon",
+      "fibrocartilage/tendon"
     ],
     "explanation": "A:有lacuna，是chondrocyte，又排列整齊鏈狀，所以是fibrous cartilage。B:核長条型，fiber走向固定，為tendon。",
-    "description": "寫出 A,B 分別為何種組織？"
+    "description": "寫出 A,B 分別為何種組織？(A組織/B組織)"
   },
   {
     "num": "09132",
@@ -285,10 +284,9 @@
     "num": "09135",
     "path": "midterm-image/b09/09135.png",
     "answer": [
-      "A: tunica adventitia",
-      "B: vasa vasorum"
+      "tunica adventitia/vasa vasorum"
     ],
     "explanation": "在血管分層中最外層的為tunica adventitia，其中可能有vasa vasorum幫忙運輸養分及廢物。",
-    "description": "寫出圖中為何種組織以及紅線匡起處為何構造？"
+    "description": "寫出圖中為何種結構/紅線匡起處為何構造"
   }
 ]
