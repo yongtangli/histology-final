@@ -99,7 +99,8 @@
     "num": "08111",
     "path": "midterm-image/b08/08111.png",
     "answer": [
-      "Fibrous cartilage"
+      "Fibrous cartilage",
+      "fibrocartilage"
     ],
     "explanation": "Chondrocyte在collagen bundles之間排列成鏈狀，周圍有lacuna。\n【出處】共筆Vol.4 P.9, 38",
     "description": "寫出組織名稱？"
@@ -117,9 +118,17 @@
     "num": "08113",
     "path": "midterm-image/b08/08113.png",
     "answer": [
-      "Simple columnar epithelium with microvilli and goblet cells"
+      "Simple columnar epithelium with microvilli and goblet cell",
+      "Simple columnar epithelium with microvilli and goblet cells",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with goblet cells and microvilli",
+      "Simple columnar epithelium with striated border and goblet cell",
+      "Simple columnar epithelium with striated border and goblet cells",
+      "Simple columnar epithelium with goblet cell and striated border",
+      "Simple columnar epithelium with goblet cells and striated border"
+      
     ],
-    "explanation": "每個細胞都接觸到basement membrane，細胞核在同一水平面且較靠近BM。細胞表面有一層淡粉色、分不出細絲狀的構造，為microvilli，白色空泡狀細胞為goblet cells。\n【出處】共筆Vol.2 P.5,14; Vol.3 P.17,18,19",
+    "explanation": "每個細胞都接觸到basement membrane，細胞核在同一水平面且較靠近BM。細胞表面有一層淡粉色、分不出細絲狀的構造，為microvilli(這應該是小腸絨毛，所以是striated border)，白色空泡狀細胞為goblet cells。\n【出處】共筆Vol.2 P.5,14; Vol.3 P.17,18,19",
     "description": "黃色框框組織名稱？"
   },
   {
