@@ -31,7 +31,8 @@
     "num": "10204",
     "path": "midterm-image/b10lab/10204.png",
     "answer": [
-      "Purkinje fiber"
+      "Purkinje fiber",
+      "Purkinje fiber of cerebellum"
     ],
     "explanation": "Purkinje fiber較一般心肌細胞大，核與核間距較大且較淡染（因myofibril少，glycogen多）。 【出處】10共筆Vol.3 P.25",
     "description": "請問箭頭所指的細胞名稱(be specific)?"
@@ -132,11 +133,10 @@
     "num": "10215",
     "path": "midterm-image/b10lab/10215.png",
     "answer": [
-      "Decalcified bone section",
-      "osteocyte"
+      "Decalcified bone/osteocyte"
     ],
     "explanation": "脫鈣後 HE stain 會將殘留的 collagen fiber 染成紅色，同心圓圈型的 haversian system 明顯，中央的大孔洞為 haversian canal，散佈各處的小空腔是 lacuna，箭頭所指的小黑點為 osteocyte。 【出處】10共筆Vol.5 P.43",
-    "description": "此種玻片的製造方式？箭頭所指細胞為何？"
+    "description": "此種玻片的製造方式/箭頭所指細胞為何？"
   },
   {
     "num": "10216",
@@ -154,6 +154,7 @@
     "path": "midterm-image/b10lab/10217.png",
     "answer": [
       "Motor neuron",
+      "multipolar neuron",
       "Multipolar nueron of spinal cord"
     ],
     "explanation": "此為silver stain 下的 multipolar neuron，細胞體積大、多角形，可見Nissl bodies, cell body 周圍無satellite cells，是spinal cord 之multipolarneuron，屬於motor neuron，若周圍有satellite cells，應該是位於sympathetic trunk  【出處】10共筆 Vol.6 P.35 ",
@@ -184,7 +185,7 @@
       "Endochondral ossification"
     ],
     "explanation": "此為典型Endochondral ossification，從上到下分別為Zone of reserve cartilage, proliferation, hypertrophy, cartilage calcification【出處】10共筆 Vol.5 P.47",
-    "description": "請問以下為何種作用?"
+    "description": "請問以下為何種成骨方式?"
   },
   {
     "num": "10221",
@@ -193,7 +194,7 @@
       "Muscular artery"
     ],
     "explanation": "TI薄，TM的elastic fiber較elastic artery少，大部分為smooth muscle cell，且muscular artery的external及internal elastic membrane明顯 【出處】10共筆 Vol.8 P.51",
-    "description": "請問下圖為何種構造?"
+    "description": "請問下圖為何種組織?"
   },
   {
     "num": "10222",
@@ -272,7 +273,8 @@
     "num": "10230",
     "path": "midterm-image/b10lab/10230.png",
     "answer": [
-      "Granular layer of cerebellum"
+      "Granular layer of cerebellum",
+      "granular layer"
     ],
     "explanation": "觀察重點:分三層，看到這三層，就要知道是小腦! Molecular layer:外層，細胞數少，含大量 unmyelinated nerve fiber，因此 HE stain 下染成較紅(淡色)。 Purkinje cell layer:中間層，由單層 purkinje neuron 組成，為 flask- shape，細胞很大，間隔距離排列，亦有 neuron 特徵。細胞核大、核 仁明顯且位於細胞中央。 Granular layer:內層，大量 granular neuron 組成，在 HE stain 下只剩 下顆粒小而深染的細胞核。【出處】10共筆Vol6 P.38",
     "description": "請問白色線以下是什麼層"
