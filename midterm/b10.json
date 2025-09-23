@@ -105,8 +105,10 @@
     "num": "10112",
     "path": "midterm-image/b10/10112.png",
     "answer": [
-      "elastic membrane",
-      "muscular artery"
+      "muscular artery/elastic membrane",
+      "muscular artery/elastic lamella",
+      "muscular artery/elastic membranes",
+      "muscular artery/elastic lamellae"
     ],
     "explanation": "和 vein 的差別是 tunica media 很厚,和 elastic artery 的差別在intima 的 subendothelial CNT 很薄,media 的 elastin 比較少,smooth muscle 多,其實看管徑大小差很多就知道了",
     "description": "這是什麼構造，圖中深色線是什麼東西"
