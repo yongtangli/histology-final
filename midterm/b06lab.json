@@ -3,9 +3,16 @@
     "num": "06201",
     "path": "midterm-image/b06lab/06201.png",
     "answer": [
-      "Simple columnar epithelium with goblet cell and microvilli"
+      "Simple columnar epithelium with microvilli and goblet cells",
+      "Simple columnar epithelium with microvilli and goblet cell",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with goblet cells and microvilli",
+      "Simple columnar epithelium with brush border and goblet cells",
+      "Simple columnar epithelium with brush border and goblet cell",
+      "Simple columnar epithelium with goblet cell and brush border",
+      "Simple columnar epithelium with goblet cells and brush border"
     ],
-    "explanation": "細胞核都位於底層所以判斷為simple columnar epithelium，除此之外可見一顆一顆顏色很淡，似泡泡狀的goblet cell，細胞核靠管腔外側。內側有地毯狀的構造：microvilli。【出處】共筆Vol.3 P.17",
+    "explanation": "細胞核都位於底層所以判斷為simple columnar epithelium，除此之外可見一顆一顆顏色很淡，似泡泡狀的goblet cell，細胞核靠管腔外側。內側有地毯狀的構造：microvilli(這應該是腎臟，所以是brush border)。【出處】共筆Vol.3 P.17",
     "description": "哪種組織？"
   },
   {
@@ -39,8 +46,7 @@
     "num": "06205",
     "path": "midterm-image/b06lab/06205.png",
     "answer": [
-      "Volkmann’s canal",
-      "ground bone"
+      "Volkmann’s canal/ground bone section"
     ],
     "explanation": "由褐色背景能判斷此為硬骨細胞的研磨切片，可以保留無機質的部分。而呈橫向黑色空腔的構造為Volkmann’s canal。【出處】07共筆Vol.6 P.45",
     "description": "哪個構造（紅色箭頭）？製備方式為？"
@@ -77,14 +83,11 @@
     "num": "06209",
     "path": "midterm-image/b06lab/06209.png",
     "answer": [
-      "A",
-      "Skeletal muscle",
-      "B",
-      "Dense regular connective tissue",
-      "tendon"
+      "Skeletal muscle/Dense regular connective tissue",
+      "Skeletal muscle/tendon"
     ],
     "explanation": "A為細胞核在邊緣的骨骼肌。B為dense regular connective tissue的縱切面，可能為tendon。【出處】07共筆Vol.5 P.38",
-    "description": "A、B分別為哪種組織？"
+    "description": "A、B分別為哪種組織？(格式:A組織/B組織)"
   },
   {
     "num": "06210",
@@ -108,7 +111,8 @@
     "num": "06212",
     "path": "midterm-image/b06lab/06212.png",
     "answer": [
-      "Mitochondria"
+      "Mitochondria",
+      "Mitochondrion"
     ],
     "explanation": "有diad在z line上，應為心肌細胞，箭頭所指為mitochondria。【出處】共筆Vol.2 P.61",
     "description": "紅色箭頭所指為何種構造？"
@@ -293,10 +297,10 @@
     "num": "06232",
     "path": "midterm-image/b06lab/06232.png",
     "answer": [
-      "Endochondral ossification"
+      "Endochondral ossification/epiphyseal plate of long bone"
     ],
     "explanation": "圖中由右至左，可發現軟骨細胞增生、複製，膨脹並進行鈣化，最後變為硬骨細胞的過程，故為Endochondral ossification。詳見共筆Vol.6 P.51。【出處】07共筆Vol.6 P.51",
-    "description": "何種骨化方式？"
+    "description": "何種骨化方式/發生在哪個區域of哪種骨頭"
   },
   {
     "num": "06233",
