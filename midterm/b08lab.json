@@ -59,7 +59,8 @@
     "num": "08207",
     "path": "midterm-image/b08lab/08207.png",
     "answer": [
-      "Purkinje cell"
+      "Purkinje cell",
+      "Purkinje cell of cerebellum"
     ],
     "explanation": "圖中箭頭所指的細胞較大、顏色偏紅，細胞呈現錐狀，可看到細胞有許多 process 往外伸，為 Purkinje cell 的特徵。",
     "description": "箭頭所指為何種細胞？"
@@ -95,7 +96,10 @@
     "num": "08211",
     "path": "midterm-image/b08lab/08211.png",
     "answer": [
-      "Simple columnar epithelium with microvilli and goblet cell"
+      "Simple columnar epithelium with microvilli and goblet cells",
+      "Simple columnar epithelium with microvilli and goblet cell",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with goblet cells and microvilli"
     ],
     "explanation": "細胞核都位於底層，所以判斷為 simple columnar epithelium，除此之外可見一顆一顆顏色很淡，似泡泡狀的 goblet cell，細胞核靠管腔外側。管腔側有地毯狀的構造，為 microvilli。",
     "description": "圖中為何種組織？（Be specific）"
@@ -104,11 +108,10 @@
     "num": "08212",
     "path": "midterm-image/b08lab/08212.png",
     "answer": [
-      "Transitional epithelium",
-      "urinary system"
+      "Transitional epithelium/urinary system"
     ],
     "explanation": "組織一側為空腔，為上皮組織。多層、表面細胞邊緣呈圓拱狀，部分細胞有雙核，判斷為 transitional epithelium。Transitional epithelium 能伸縮，出現在泌尿系統（腎盂、輸尿管、膀胱、部分尿道）的上皮。顯微鏡下的 transitional epithelium 通常為鬆弛狀態，有以下特徵：表層細胞呈現弧形凸向管腔且大而淺色。表層細胞靠外側的膜邊緣有一條深染線，為膀胱鬆弛，細胞變小時多餘細胞質聚集於邊緣造成。有些細胞有雙核。",
-    "description": "箭頭所指為何種組織？出現在哪一系統？"
+    "description": "箭頭所指為何種組織/出現在哪一系統？"
   },
   {
     "num": "08213",
