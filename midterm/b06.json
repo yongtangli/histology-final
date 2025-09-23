@@ -70,7 +70,8 @@
     "num": "06108",
     "path": "midterm-image/b06/06108.png",
     "answer": [
-      "Mitochondria"
+      "mitochondria",
+      "mitochondrion"
     ],
     "explanation": "此圖為EM下的影像，箭頭所指的橢圓構造有雙層膜，內部含有許多皺褶，顯然為mitochondria。唯須注意mitochondria在細胞內並無固定形狀。",
     "description": "請問以下箭頭所指的構造為何？"
