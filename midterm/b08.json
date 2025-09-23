@@ -163,23 +163,19 @@
     "num": "08117",
     "path": "midterm-image/b08/08117.png",
     "answer": [
-      "TEM",
-      "mitochondria",
-      "SEM",
-      "mitochondria"
+      "TEM/mitochondria/SEM/mitochondria"
     ],
     "explanation": "A圖為TEM下的視野，可見雙層膜狀構造及cristae，為粒線體；B圖較有立體感，為SEM的視野，可見胞器內有許多由內膜向內凹折的構造，為粒線體的特徵。\n【出處】共筆Vol.1 P.6,37~38",
-    "description": "A、B分別為何種顯微鏡下的視野？分別為何種胞器？"
+    "description": "A、B分別為何種顯微鏡下的視野？分別為何種胞器(寫複數)？(格式:A顯微鏡/A胞器/B顯微鏡/B胞器)"
   },
   {
     "num": "08118",
     "path": "midterm-image/b08/08118.png",
     "answer": [
-      "Plasma cell",
-      "製造抗體"
+      "Plasma cell/製造抗體"
     ],
     "explanation": "此為plasma cell分布於組織間微血管的視野，其核為車輪狀（外圍有heterochromatin，中間有nucleolus），且核被發達的golgi擠到細胞邊邊。\n【出處】（08）共筆Vol.4 P.21,43",
-    "description": "箭頭所指細胞名稱？執行什麼功能？"
+    "description": "箭頭所指細胞名稱/執行什麼功能？"
   },
   {
     "num": "08119",
@@ -231,11 +227,10 @@
     "num": "08124",
     "path": "midterm-image/b08/08124.png",
     "answer": [
-      "Elastic cartilage",
-      "Elastic cartilage"
+      "Elastic cartilage/Elastic cartilage"
     ],
     "explanation": "兩者皆為 Elastic cartilage，左邊為Orcein染色，右邊為Verhoeff”s Hematoxylin染色。\n【出處】共筆Vol.4 P.8, 36",
-    "description": "左右分別為何種組織？"
+    "description": "左右分別為何種組織？(格式:左組織/右組織)"
   },
   {
     "num": "08125",
@@ -279,11 +274,10 @@
     "num": "08129",
     "path": "midterm-image/b08/08129.png",
     "answer": [
-      "Cilia",
-      "Basal Body"
+      "Cilia/Basal Body"
     ],
     "explanation": "圖中所見之組織乍看下為多層上皮，但實際上為含有basal cell的pseudostratified columnar epithelium。而黃色箭頭所指之構造，在LM下較為整齊，且可分辨出一絲一絲的結構，為cilia的特徵。而在cilia下方，呈現深色的一條細線則為basal body，作為axoneme的發生和固著點。\n【出處】共筆Vol.2 P20-22",
-    "description": "黃色箭頭結構名稱？紅色箭頭所指深紅色線之名稱？"
+    "description": "黃色箭頭結構名稱/紅色箭頭所指深紅色線之名稱"
   },
   {
     "num": "08130",
@@ -298,11 +292,10 @@
     "num": "08131",
     "path": "midterm-image/b08/08131.png",
     "answer": [
-      "Smooth muscle",
-      "Dense irregular connective tissue"
+      "Smooth muscle/Dense irregular connective tissue"
     ],
     "explanation": "左邊核呈紡錘型、細胞間排列緊密，為平滑肌。\n右邊Fiber多、排列緊密但不規則，為Dense irregular CT。\n【出處】共筆Vol.2 P.65, 08Vol.4 P.27",
-    "description": "左邊組織名稱？右邊組織名稱？"
+    "description": "左邊組織名稱/右邊組織名稱"
   },
   {
     "num": "08132",
@@ -318,7 +311,9 @@
     "path": "midterm-image/b08/08133.png",
     "answer": [
       "Elastic lamellae",
-      "membrane"
+      "elastic membranes",
+      "Elastic lamella",
+      "elastic membrane"
     ],
     "explanation": "為辨識Elastic a.、Muscular a.之重要Landmark，富含Elastic fiber，可被Orcein特殊染色。\n【出處】08共筆Vol.9 P.21-23",
     "description": "深色線條構造名稱？"
@@ -327,7 +322,8 @@
     "num": "08134",
     "path": "midterm-image/b08/08134.png",
     "answer": [
-      "Mitochondrion"
+      "Mitochondrion",
+      "mitochondria"
     ],
     "explanation": "TEM下的粒線體。\n【出處】共筆Vol.1 P.37-39",
     "description": "此構造名稱？"
@@ -336,7 +332,8 @@
     "num": "08135",
     "path": "midterm-image/b08/08135.png",
     "answer": [
-      "Satellite cell"
+      "Satellite cell",
+      "Satellite cells"
     ],
     "explanation": "Satellite cell圍繞在DRG cell body（Sympathetic ganglion也有）旁。\n【出處】08共筆Vol.6 P.27",
     "description": "箭頭所指細胞名稱？"
