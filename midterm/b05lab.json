@@ -3,7 +3,8 @@
     "num": "05201",
     "path": "midterm-image/b05lab/05201.png",
     "answer": [
-      "vena cava"
+      "vena cava",
+      "large vein"
     ],
     "explanation": "可以分出最薄的tunica intima（epithelium）、層數少有環走smooth muscle的tunica media和最厚的tunica adventitia（縱走橫切）。tunica adventitia比tunica media厚非常多。",
     "description": "視野中為何構造？"
@@ -88,11 +89,10 @@
     "num": "05210",
     "path": "midterm-image/b05lab/05210.png",
     "answer": [
-      "reticular fiber",
-      "silver stain"
+      "reticular fiber/silver stain"
     ],
     "explanation": "銀染色下黑色的網狀細線，主要分布在淋巴結內部的trabeculae。",
-    "description": "黑色線條是什麼結構？"
+    "description": "黑色線條是什麼結構/用什麼染色法"
   },
   {
     "num": "05211",
@@ -144,13 +144,10 @@
     "num": "05216",
     "path": "midterm-image/b05lab/05216.png",
     "answer": [
-      "A",
-      "tight junction",
-      "B",
-      "desmosome"
+      "tight junction/desmosome"
     ],
     "explanation": "(A) 靠近細胞上表面的junction是緊緊連接的tight junction。\n(B) desmosome是electron-dense的plaque和旁邊很多條狀的intermediate filament（雙邊毛刷）。",
-    "description": "A是什麼junction？B是什麼？"
+    "description": "A是什麼junction？B是什麼？(格式:A構造/B構造)"
   },
   {
     "num": "05217",
@@ -193,10 +190,10 @@
     "num": "05221",
     "path": "midterm-image/b05lab/05221.png",
     "answer": [
-      "decalcified bone"
+      "compact bone/decalcified bone"
     ],
     "explanation": "看到許多同心圓中的小空洞，還有小黑點osteocytes，沒有黑色骨屑花紋就是decalcified bone。",
-    "description": "什麼組織（製備方式）？"
+    "description": "什麼組織/製備方式？"
   },
   {
     "num": "05222",
