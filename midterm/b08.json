@@ -194,11 +194,10 @@
     "num": "08121",
     "path": "midterm-image/b08/08121.png",
     "answer": [
-      "Compact bone",
-      "skeletal muscle"
+      "Compact bone/skeletal muscle"
     ],
     "explanation": "左邊為Decalcified的compact bone，可見Osteon和Osteocyte。\n右邊為Skeletal muscle，多核、核在邊緣。\n【出處】共筆Vol.2 P.43, Vol.5 P.15",
-    "description": "左右兩邊是什麼組織名稱？"
+    "description": "左右兩邊是什麼組織名稱？(格式:左邊組織/右邊組織)"
   },
   {
     "num": "08122",
