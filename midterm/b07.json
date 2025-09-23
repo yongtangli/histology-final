@@ -3,11 +3,13 @@
     "num": "07101",
     "path": "midterm-image/b07/10701.png",
     "answer": [
-      "Pseudostratified columnar epithelium with cilia and goblet cell",
-      "basal body"
+      "Pseudostratified columnar epithelium with cilia and goblet cell/basal body",
+      "Pseudostratified columnar epithelium with cilia and goblet cells/basal body",
+      "Pseudostratified columnar epithelium with goblet cell and cilia/basal body",
+      "Pseudostratified columnar epithelium with goblet cells and cilia/basal body",
     ],
     "explanation": "看似多層細胞，但其實細胞均位於basement membrane上，可知道是pseudostratified columnar epithelium，其上可見一根根的構造，因判斷為cilia（microvilli只會是地毯狀）\n箭頭所指深染紅線為cilia基部的basal body\n【出處】共筆Vol.2 p.7, 21",
-    "description": "組織名稱及深紅色線之名稱？"
+    "description": "組織名稱/深紅色線名稱？"
   },
   {
     "num": "07102",
@@ -22,8 +24,7 @@
     "num": "07103",
     "path": "midterm-image/b07/10703.png",
     "answer": [
-      "SEM",
-      "rER"
+      "SEM/rER"
     ],
     "explanation": "07的影片裡助教給的答案是SEM，或許是畫質太差導致截圖看不出立體感。rER上有許多核糖體。\n【出處】共筆 Vol.1 p.5,14,15",
     "description": "下圖是由哪種顯微鏡所得之影像？藍色虛線範圍內為何種胞器？"
@@ -63,17 +64,16 @@
       "Elastic cartilage/orcein stain"
     ],
     "explanation": "看見多個lacunae，為軟骨，其Ground substance中有一絲一絲被特殊染色的elastic fiber，因此為elastic cartilage。Elastic fiber使用orcein染色呈紅棕色\n【出處】07共筆Vol.6 P.10",
-    "description": "下圖是何種組織？使用哪種染色方式？"
+    "description": "下圖是何種組織/使用哪種染色方式？"
   },
   {
     "num": "07108",
     "path": "midterm-image/b07/10708.png",
     "answer": [
-      "Epidermis",
-      "cornified stratified squamous epithelium"
+      "Epidermis/cornified stratified squamous epithelium"
     ],
     "explanation": "Epidermis位於皮膚最表層，由cornified stratified squamous epithelium組成，上方不規則組織為角質層（無細胞核）。\n【出處】共筆Vol.3 p.24, 07共筆Vol.9 p.2",
-    "description": "寫出Ａ層之名稱與Ａ層之組織名稱？"
+    "description": "寫出Ａ層之名稱/Ａ層屬於哪種組織？"
   },
   {
     "num": "07109",
@@ -99,11 +99,10 @@
     "num": "07111",
     "path": "midterm-image/b07/10711.png",
     "answer": [
-      "A: granular layer",
-      "B: molecular layer"
+      "granular layer of cerebellum/molecular layer of cerebellum"
     ],
     "explanation": "此為小腦構造，Granular layer位於內層，由大量granular neuron組成，在HE stain下剩下顆粒小而深染的細胞核。Molecular layer位於最外層，細胞數少，含大量unmyelinated nerve fiber，因此在HE stain下較紅（淡色）。中間層為Purkinje cell。\n【出處】07共筆Vol.8 p.37",
-    "description": "A、B的組織名稱？（不要理黃圈圈）"
+    "description": "A組織名稱/B組織名稱？(be specific)（不要理黃圈圈）"
   },
   {
     "num": "07112",
@@ -146,11 +145,10 @@
     "num": "07116",
     "path": "midterm-image/b07/10716.png",
     "answer": [
-      "上：Smooth muscle",
-      "下：Cardiac muscle"
+      "Smooth muscle/Cardiac muscle"
     ],
     "explanation": "心肌細胞橫切面空隙較多\n【出處】共筆Vol.2 p.58, 66",
-    "description": "上下分別爲何種組織？"
+    "description": "上下分別爲何種組織？(格式:上方組織名稱/下方組織名稱)"
   },
   {
     "num": "07117",
@@ -186,11 +184,10 @@
     "num": "07120",
     "path": "midterm-image/b07/10720.png",
     "answer": [
-      "Elastic fiber",
-      "collagen fiber"
+      "Elastic fiber/collagen fiber"
     ],
     "explanation": "此為loose connective tissue，纖維細、色深，且會分支者為Elastic fiber，纖維粗、淡粉色者為Collagen fiber\n【出處】共筆Vol.4 p.33",
-    "description": "紫色細絲（紅箭頭）與粉紅色絲狀物（藍箭頭）的構造名稱？"
+    "description": "紫色細絲（紅箭頭）名稱/粉紅色絲狀物（藍箭頭）名稱？"
   },
   {
     "num": "07121",
@@ -225,10 +222,8 @@
     "num": "07124",
     "path": "midterm-image/b07/10724.png",
     "answer": [
-      "Proliferation zone",
-      "long bone",
-      "epiphyseal plate",
-      "epiphysis"
+      "Proliferation zone/epiphyseal plate of long bone",
+      "zone of Proliferation/epiphyseal plate of long bone"
     ],
     "explanation": "由圖中可見，軟骨細胞數量極多，彷彿正在增生，形成isogenic group，且排成列狀，因此為 proliferation zone。(不可寫cartilage/ endochondral ossification)\n【出處】07共筆Vol.6 p.33",
     "description": "箭頭所指區域名稱？此構造發生於何處？"
@@ -266,11 +261,11 @@
     "num": "07128",
     "path": "midterm-image/b07/10728.png",
     "answer": [
-      "左: tendon(dense regular CNT)",
-      "右: skeletal muscle"
+      "tendon/skeletal muscle",
+      "dense regular connective tissue/skeletal muscle"
     ],
     "explanation": "Tendon fiber排列緊密、核細長；skeletal muscle核在fiber邊緣，且有橫紋（此圖看不出來）\n【出處】共筆Vol.2 p.56, 57",
-    "description": "分別寫出左右兩邊組織名稱？"
+    "description": "分別寫出左邊組織名稱/右邊組織名稱"
   },
   {
     "num": "07129",
@@ -286,11 +281,13 @@
     "num": "07130",
     "path": "midterm-image/b07/10730.png",
     "answer": [
-      "上：fibrocartilage",
-      "下：dense regular CNT/ tendon"
+      "fibrocartilage/dense regular connective tissue",
+      "fibrous cartilage/dense regular connective tissue",
+      "fibrocartilage/tendon",
+      "fibrous cartilage/tendon"
     ],
     "explanation": "fibrocartilage的chondrocyte排成鏈狀，和fibroblast比起來核較圓，且周圍有lacunae\n【出處】07共筆Vol.6 p.11",
-    "description": "上下分別為何種組織？"
+    "description": "上下分別為何種組織？(格式:上方組織/下方組織)"
   },
   {
     "num": "07131",
