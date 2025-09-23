@@ -68,11 +68,10 @@
     "num": "11108",
     "path": "midterm-image/b11/11108.png",
     "answer": [
-      "A. smooth muscle",
-      "B. cardiac muscle"
+      "smooth muscle/cardiac muscle"
     ],
     "explanation": "A.細胞排列較為緊密；B.細胞間空隙較大",
-    "description": "下列圖片中A，B各為何種組織？"
+    "description": "下列圖片中A，B各為何種組織？(格式:A組織/B組織)"
   },
   {
     "num": "11109",
@@ -96,18 +95,16 @@
     "num": "11111",
     "path": "midterm-image/b11/11111.png",
     "answer": [
-      "Choroid plexus",
-      "ependymal cell"
+      "Choroid plexus/ependymal cell"
     ],
     "explanation": "脈絡叢（choroid plexus）為特化的 ependymal cell 中間包覆 vascular core 組成。（師曰：類似一串葡萄的形狀）",
-    "description": "紅色圈選的組織為何？箭頭所指的細胞名稱？（be specific）"
+    "description": "紅色圈選的組織為何/箭頭所指的細胞名稱？（be specific）"
   },
   {
     "num": "11112",
     "path": "midterm-image/b11/11112.png",
     "answer": [
-      "Smooth muscle",
-      "contraction"
+      "Smooth muscle/contraction"
     ],
     "explanation": "深紅色的深染帶狀為 contraction bands。收縮的平滑肌兩端的細胞質會往中心集中，故較深染。細胞核顏色也較深，且部分細胞核呈螺旋狀或可樂果狀（corkscrew）。",
     "description": "這是什麼組織？它現在在做什麼？"
@@ -134,8 +131,8 @@
     "num": "11115",
     "path": "midterm-image/b11/11115.png",
     "answer": [
-      "Elastic Cartilage",
-      "Orcein staining"
+      "Elastic Cartilage/Orcein stain",
+      "Elastic Cartilage/Orcein"
     ],
     "explanation": "Elastic fiber 被Orcein 染成紅棕色，同時可見Perichondrium（微綠）、Lacuna(空腔)、Chondrocyte(腔內細胞)；Orcein: 染 Elastic fiber 成為紅棕色",
     "description": "請問下列的組織？染色方式？"
@@ -144,7 +141,8 @@
     "num": "11116",
     "path": "midterm-image/b11/11116.png",
     "answer": [
-      "Zone of proliferation"
+      "Zone of proliferation",
+      "proliferation zone"
     ],
     "explanation": "zone of reserve cartilage：軟骨的部分；zone of proliferation：lacuna / chondrocyte 密度開始劇烈增加； zone of hypertrophy：lacuna 膨脹； zone of cartilage calcification：軟骨鈣化，正在轉換成硬骨； zone of resorption：骨頭的再塑造（remodelling of bone）。新生層的硬骨質跟殘留的軟骨有顏色有明顯的分別：鈣化的軟骨被染成偏藍色，新生成的骨質則被染成紅色。",
     "description": "下圖框框是什麼區域？"
@@ -162,8 +160,8 @@
     "num": "11118",
     "path": "midterm-image/b11/11118.png",
     "answer": [
-      "Internal Elastic Membrane",
-      "Smooth muscle cell"
+      "Internal Elastic Membrane/Smooth muscle cell",
+      "Internal Elastic lamella/Smooth muscle cell",
     ],
     "explanation": "經過特殊染色，可以將原本 HE stain 下不明顯的 internal & external elastic lamella 染成黑色，圖片上方箭頭所指處為 internal elastic lamella、圖片下方；箭頭所指處為 external elastic lamella。Tunica media 中，波浪狀的 elastic lamella 很少，多為 smooth muscle，且呈現螺旋形（corkscrew）",
     "description": "請問綠色箭頭所指的深色線是什麼構造？紅色箭頭所指的是什麼細胞？"
@@ -200,12 +198,10 @@
     "num": "11122",
     "path": "midterm-image/b11/11122.png",
     "answer": [
-      "dense irregular connective tissue",
-      "Collagen fiber",
-      "collageous fiber"
+      "dense irregular connective tissue/Collagen fiber"
     ],
     "explanation": "圖中Connective tissue纖維緻密，且走向不一，故為 dense irregular connective tissue，又大部分纖維用HE染色呈粉紅色，故為Collagen fiber。",
-    "description": "寫出下面箭頭所指組織名稱，並寫出為哪種纖維組成。"
+    "description": "寫出下面箭頭所指組織名稱/哪種纖維組成。"
   },
   {
     "num": "11123",
@@ -230,11 +226,10 @@
     "num": "11125",
     "path": "midterm-image/b11/11125.png",
     "answer": [
-      "A: Brown Adipose tissue",
-      "B: White adipose tissue"
+      "Brown Adipose tissue/White adipose tissue"
     ],
     "explanation": "Brown Adipose tissue核旁有需多小油滴，沒有合成大油滴，旁有粒線體；White adipose tissue油滴大，細胞胞器被擠到旁邊。 ",
-    "description": "請問A、B分別是什麼組織？"
+    "description": "請問A、B分別是什麼組織？(A組織/B組織)"
   },
   {
     "num": "11126",
@@ -268,11 +263,10 @@
     "num": "11129",
     "path": "midterm-image/b11/11129.png",
     "answer": [
-      "Cilia",
-      "Basal body"
+      "Cilia/Basal body"
     ],
     "explanation": "可見一絲一絲的構造，且長度比stereocilia短，故為cilia；在cilia底部呈深紅色線條構造是由basal body所構成",
-    "description": "請問下圖黃色區域的構造為何？紅色箭頭為何"
+    "description": "請問下圖黃色區域的構造為何/紅色箭頭為何"
   },
   {
     "num": "11130",
