@@ -54,6 +54,10 @@
       "Simple columnar epithelium with goblet cells and microvilli",
       "Simple columnar epithelium with microvilli and goblet cells",
       "Simple columnar epithelium with striated border and goblet cells",
+      "Simple columnar epithelium with goblet cell and striated border",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with microvilli and goblet cell",
+      "Simple columnar epithelium with striated border and goblet cell",
     ],
     "explanation": "細胞為長條形，為柱狀細胞，上面有空泡狀的goblet cell及一層microvilli (在LM下不能看出一絲一絲，只會看到一層地毯狀、毛毛的東西在最上面)。",
     "description": "這是什麼組織？(忽略黃色箭頭)(be specific!)"
@@ -107,8 +111,7 @@
     "num": "11212",
     "path": " midterm-image/b11lab/11212.png",
     "answer": [
-      "Succinate dehydrogenase",
-      "Skeletal muscle"
+      "Succinate dehydrogenase histochemical staining/Skeletal muscle"
     ],
     "explanation": "Histochemical staining: succinate dehydrogenase是skeletal muscle的特殊染色。Mitochondria 的多寡所造成 succinate dehydrogenase 含量的不同而進行 histochemical staining，染成不同程度的紫色。",
     "description": "圖中為何種染色方式？為何種組織？"
@@ -145,7 +148,8 @@
     "path": " midterm-image/b11lab/11216.png",
     "answer": [
       "Elastic ligament",
-      "ligamentum nuchae"
+      "ligamentum nuchae",
+      "nuchal ligament"
     ],
     "explanation": "Elastic fiber 呈紫紅色，此處較一般常見的 elastic fiber 更粗，是特化的結果，為 nuchal ligament 的主要結構，不要誤認爲為 collagen fiber。在這寫些纖維之間可以看到扁圓形，呈現黑紫色之 fibroblast 細胞核",
     "description": "以下是哪個組織 （Be specific, 為 special stain）"
@@ -163,7 +167,7 @@
     "num": "11218",
     "path": " midterm-image/b11lab/11218.png",
     "answer": [
-      "Medium-size vein"
+      "Medium vein"
     ],
     "explanation": "Tunica media 有環狀的 smooth muscle， Tunica adventitia 比 media 厚。與 Medium artery 比較，沒有明顯的 internal elastic membrane。",
     "description": "這是何種器官"
@@ -172,11 +176,10 @@
     "num": "11219",
     "path": " midterm-image/b11lab/11219.png",
     "answer": [
-      "Outer circumferential lamellae",
-      "Decalcified Bone"
+      "Outer circumferential lamellae/Decalcified Bone"
     ],
     "explanation": "Compact bone 的邊緣外側 （離骨髓較遠）有數層平行板裝狀，稱為 outer circumferential lamellae。此外，由於此切片被染色為紅紫色，代表含有有機質，而非含鈣的無機質，故爲為 decalcified bone。",
-    "description": "左下箭頭指什麽組織，和那種製備方式"
+    "description": "左下箭頭指什麽組織/那種製備方式"
   },
   {
     "num": "11220",
@@ -227,8 +230,7 @@
     "num": "11225",
     "path": " midterm-image/b11lab/11225.png",
     "answer": [
-      "Schwann cell",
-      "Satellite cell"
+      "Schwann cell and Satellite cell"
     ],
     "explanation": "從細胞的形狀以及旁邊的神經可以判斷是dorsal root ganglion ，-而PNS中的神經膠細胞是satellite cell 以及 shwann cell。",
     "description": "視野中有哪兩種神經膠細胞"
