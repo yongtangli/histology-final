@@ -23,7 +23,8 @@
     "answer": [
       "Mixed bone",
       "Mixed trabeculae",
-      "spicule"
+      "spicule",
+      "mix bone spicule"
     ],
     "explanation": "Spicule由軟骨轉換而來，可同時看見殘留的軟骨與新生成的硬骨，其染色特性不同",
     "description": "圍起來的構造名稱為何?"
@@ -41,21 +42,19 @@
     "num": "10105",
     "path": "midterm-image/b10/10105.png",
     "answer": [
-      "plasma cell",
-      "分泌抗體"
+      "plasma cell/製造抗體"
     ],
     "explanation": "橢圓形的細胞細胞核偏一邊，這是 plasma cell，功能是分泌抗體",
-    "description": "請問圖中箭頭所指細胞為何？它的功能是什麼？"
+    "description": "請問圖中箭頭所指細胞為何/它的功能是什麼？"
   },
   {
     "num": "10106",
     "path": "midterm-image/b10/10106.png",
     "answer": [
-      "A：white adipocyte",
-      "B：brown adipocyte"
+      "white adipocyte/brown adipocyte"
     ],
     "explanation": "Brown adipocyte：核在細胞中間，一細胞質含有多個脂肪油滴。White adipocyte ： 胞內儲藏的油滴會融合成一個大的脂肪油滴，而將細胞核、細胞質及其他胞器擠至細胞邊緣，因此細胞核呈扁平，且只有少少的胞器。",
-    "description": "下面兩者分別是哪種脂肪細胞？"
+    "description": "下面兩者分別是哪種脂肪細胞？(A/B)"
   },
   {
     "num": "10107",
@@ -135,7 +134,13 @@
     "path": "midterm-image/b10/10115.png",
     "answer": [
       "Simple columnar epithelium with microvilli and goblet cells",
-      "striated border"
+      "Simple columnar epithelium with microvilli and goblet cell",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with goblet cells and microvilli",
+      "Simple columnar epithelium with striated border and goblet cells",
+      "Simple columnar epithelium with striated border and goblet cell",
+      "Simple columnar epithelium with goblet cell and striated border",
+      "Simple columnar epithelium with goblet cells and striated border"
     ],
     "explanation": "細胞核整齊、接近 basement membrane，管腔側有地毯狀的構造為 microvilli，此外有空泡狀的分泌細胞存在於 columnar cell 之間、即為 goblet cell",
     "description": "視野範圍中之組織名稱？"
@@ -162,11 +167,10 @@
     "num": "10118",
     "path": "midterm-image/b10/10118.png",
     "answer": [
-      "A:Dense irregular connective tissue",
-      "B:Smooth muscle"
+      "Dense irregular connective tissue/Smooth muscle"
     ],
     "explanation": "此張圖像素較低，不易判斷，但主要可以觀察到上方Fiber多、排列緊密但不規則，因此為Dense irregular CT下方細胞核為紡錘型、細胞排列更緊密，為Smooth muscle",
-    "description": "分別寫出A與B之組織名稱"
+    "description": "分別寫出A組織名稱/B組織名稱"
   },
   {
     "num": "10119",
@@ -181,7 +185,8 @@
     "num": "10120",
     "path": "midterm-image/b10/10120.png",
     "answer": [
-      "Zone of proliferation"
+      "Zone of proliferation",
+      "proliferation zone"
     ],
     "explanation": "此為典型Endochondral ossification，從上到下分別為Zone of reserve cartilage, proliferation, hypertrophy, cartilage calcification",
     "description": "請問以下的區域被稱為（紅色箭頭）"
@@ -227,11 +232,11 @@
     "num": "10125",
     "path": "midterm-image/b10/10125.png",
     "answer": [
-      "A:Skeletal muscle/B:Tendon",
-      "A:skeletal muscle/B:dense regular connective tissue"
+      "Skeletal muscle/Tendon",
+      "skeletal muscle/dense regular connective tissue"
     ],
     "explanation": "A 為細胞核在邊緣的骨骼肌。B 為 dense regular connective tissue 的縱切面,可能為 tendon。",
-    "description": "請問A、B分別為甚麼構造？(A:(A構造)/B:(B構造))"
+    "description": "請問A、B分別為甚麼構造？(A構造/B構造)"
   },
   {
     "num": "10126",
@@ -273,31 +278,28 @@
     "num": "10130",
     "path": "midterm-image/b10/10130.png",
     "answer": [
-      "A: skeletal muscle",
-      "B: tendon"
+      "skeletal muscle/ tendon"
     ],
     "explanation": "此為muscle-tendon junction, 上方箭頭可見橫紋故為skeletal muscle, 下方箭頭可見fibroblast,且排列緊密為tendon(或dense regular connective tissue)",
-    "description": "請問下圖所指的組織結構為何？A:上面箭頭 B:下面箭頭"
+    "description": "請問下圖所指的組織結構為何？(上面箭頭組織/下面箭頭組織)"
   },
   {
     "num": "10131",
     "path": "midterm-image/b10/10131.png",
     "answer": [
-      "A:cardiac muscle",
-      "B:smooth muscle"
+      "cardiac muscle/smooth muscle"
     ],
     "explanation": "Ａ：細胞會分岔，心間盤，有橫紋，故為cardiac muscleＢ：細胞和在中間，紡錘形",
-    "description": "請問下圖所指的組織結構為何？"
+    "description": "請問下圖所指的組織結構為何？(A組織/B組織)"
   },
   {
     "num": "10132",
     "path": "midterm-image/b10/10132.png",
     "answer": [
-      "basal body",
-      "Pseudostratified columnar epithelium with cilia"
+      "Pseudostratified columnar epithelium with cilia/basal body"
     ],
     "explanation": "看起來像多層，但最下層的 basal cells 是間隔出現，有的地方有、有的地方沒有，上方細胞皆有連接到 basement membrane，所以是 pseudostratified columnar epithelium cilia比 microvilli 長且比 stereocilia 整齊 ，cilia 底部有 electron dense 的構造，為 basal body",
-    "description": "請問下圖所指的組織結構為何？紅色箭頭為何"
+    "description": "請問下圖所指的組織結構為何/紅色箭頭為何"
   },
   {
     "num": "10133",
@@ -321,10 +323,9 @@
     "num": "10135",
     "path": "midterm-image/b10/10135.png",
     "answer": [
-      "A:cornified stratified squamous epithelium",
-      "B:dense irregular CNT"
+      "cornified stratified squamous epithelium/dense irregular connective tissue"
     ],
     "explanation": "Epidermis 上方有一層淡粉色透明角質層，所以是 cornified; Dermis 由上往下可分為 Papillary layer 與 Reticular layer，前者 屬 loose CNT，後者為 dense irregular CNT",
-    "description": "請寫出AB分別是什麼組織？"
+    "description": "請寫出AB分別是什麼組織？(A組織/B組織)"
   }
 ]
