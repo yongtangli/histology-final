@@ -40,11 +40,11 @@
     "num": "11105",
     "path": "midterm-image/b11/11105.png",
     "answer": [
-      "左：fibrocartilage",
-      "右：tendon"
+      "fibrocartilage/tendon",
+      "fibrous cartilage/tendon"
     ],
     "explanation": "左:有lacuna，是chondrocyte，又排列整齊鏈狀，所以是fibrocartilage。 右:核長條型，fiber走向固定，為tendon。",
-    "description": "左右分別是什麼？"
+    "description": "左右分別是什麼？(格式:左方組織/右方組織)"
   },
   {
     "num": "11106",
