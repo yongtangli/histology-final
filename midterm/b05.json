@@ -234,9 +234,13 @@
       "Simple columnar epithelium with microvilli and goblet cells",
       "Simple columnar epithelium with microvilli and goblet cell",
       "Simple columnar epithelium with goblet cell and microvilli",
-      "Simple columnar epithelium with goblet cells and microvilli"
+      "Simple columnar epithelium with goblet cells and microvilli",
+      "Simple columnar epithelium with brush border and goblet cells",
+      "Simple columnar epithelium with brush border and goblet cell",
+      "Simple columnar epithelium with goblet cell and brush border",
+      "Simple columnar epithelium with goblet cells and brush border"
     ],
-    "explanation": "可見單層柱狀上皮細胞，同時有白色空泡狀 goblet cells和 地毯狀microvilli",
+    "explanation": "可見單層柱狀上皮細胞，同時有白色空泡狀 goblet cells和 地毯狀microvilli(這應該是腎臟的proximal tube，所以是brush border)",
     "description": "下列是何種組織？"
   },
   {
