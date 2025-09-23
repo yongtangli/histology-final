@@ -67,11 +67,10 @@
     "num": "09109",
     "path": "midterm-image/b09/09109.png",
     "answer": [
-      "Mast cell",
-      "Metachromasia"
+      "Mast cell/Metachromasia"
     ],
     "explanation": "Metachromasia: Toluidine blue stains granules被mast cell中的大量陰離子抓住，使染劑折射率改變(藍色變為紫紅色)。",
-    "description": "請問下列呈紅色的細胞為何？並寫出將染劑由藍轉紅的特性為何？"
+    "description": "下列呈紅色的細胞為何/將染劑由藍轉紅的特性為何？"
   },
   {
     "num": "09110",
@@ -140,17 +139,17 @@
     "num": "09118",
     "path": "midterm-image/b09/09118.png",
     "answer": [
-      "A: non-cornified stratified squamous epithelium",
-      "B: dense irregular connective tissue"
+      "noncornified stratified squamous epithelium / dense irregular connective tissue"
     ],
     "explanation": "(A) 多層細胞，越上面越扁平，最表面一層為squamous，且表面無角質化，所以是non-cornified stratified squamous epithelium。(B) 分布在表皮下方的真皮(dermis)。",
-    "description": "圖中 A,B 分別為何種組織？"
+    "description": "圖中 A,B 分別為何種組織？(格式:A組織/B組織)"
   },
   {
     "num": "09119",
     "path": "midterm-image/b09/09119.png",
     "answer": [
-      "Cilium"
+      "Cilium",
+      "cilia"
     ],
     "explanation": "紅色箭頭的突出物為cilium，而下方黃色箭頭則是basal body。",
     "description": "2整根所指的構造是什麼"
