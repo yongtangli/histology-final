@@ -109,9 +109,17 @@
     "num": "06112",
     "path": "midterm-image/b06/06112.png",
     "answer": [
-      "Simple columnar epithelium with microvilli and goblet cell"
+      "Simple columnar epithelium with striated border and goblet cell",
+      "Simple columnar epithelium with microvilli and goblet cells",
+      "Simple columnar epithelium with goblet cell and microvilli",
+      "Simple columnar epithelium with goblet cells and microvilli",
+      "Simple columnar epithelium with striated border and goblet cell",
+      "Simple columnar epithelium with striated border and goblet cells",
+      "Simple columnar epithelium with goblet cell and striated border",
+      "Simple columnar epithelium with goblet cells and striated border"
+      
     ],
-    "explanation": "圖中所圈選的組織靠近管腔，組織本身為單層，每個細胞排列整齊且均附著於basement membrane上，細胞核呈橢圓形且位置靠近底部，細胞呈現柱狀，顯然為simple columnar epithelium。此外，在細胞上方游離面，有一層較淡染、地毯狀的構造，在LM下難以區分出一條一條的細部構造，為microvilli。而在組織中另有些呈空泡狀的細胞，為goblet cell，因含有黏多醣蛋白，在製備玻片時會被溶解，故呈現透明空泡狀。",
+    "explanation": "圖中所圈選的組織靠近管腔，組織本身為單層，每個細胞排列整齊且均附著於basement membrane上，細胞核呈橢圓形且位置靠近底部，細胞呈現柱狀，顯然為simple columnar epithelium。此外，在細胞上方游離面，有一層較淡染、地毯狀的構造，在LM下難以區分出一條一條的細部構造，為microvilli。(這片應該是小腸絨毛，所以可以寫striated border)而在組織中另有些呈空泡狀的細胞，為goblet cell，因含有黏多醣蛋白，在製備玻片時會被溶解，故呈現透明空泡狀。",
     "description": "寫出虛線所指之組織名稱"
   },
   {
