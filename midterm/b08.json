@@ -204,12 +204,11 @@
     "num": "08122",
     "path": "midterm-image/b08/08122.png",
     "answer": [
-      "上：skeletal muscle",
-      "下：tendon",
-      "dense regular connective tissue"
+      "skeletal muscle/tendon",
+      "skeletal muscle/dense regular connective tissue"
     ],
     "explanation": "上方組織多核、有橫紋、核位於邊緣，為骨骼肌。\n下方組織核長條狀、無橫紋、核位於細胞中央、不規則Fiber多，為Dense regular CT。\n【出處】共筆Vol.2 P.54",
-    "description": "上下分別為何種組織？"
+    "description": "上下分別為何種組織？(格式:上方組織/下方組織)"
   },
   {
     "num": "08123",
