@@ -30,8 +30,7 @@
     "num": "08104",
     "path": "midterm-image/b08/08104.png",
     "answer": [
-      "Mast cell",
-      "metachromasia"
+      "Mast cell/metachromasia"
     ],
     "explanation": "圖中採用的染劑為toluidine blue，應將細胞染為藍色，但此細胞卻被染為紅色，也可觀察出細胞中含有許多顆粒，此為mast cell的特徵。\n而toluidine blue因染上mast cell中大量的陰離子，使得染劑結構變大，改變折光率，因此變為紅色，此現象稱為metachromasia。\n【出處】（08）共筆Vol.4 P.19,20,46",
     "description": ""
@@ -77,13 +76,11 @@
     "num": "08109",
     "path": "midterm-image/b08/08109.png",
     "answer": [
-      "Cornified stratified squamous epithelium",
-      "Epidermis",
-      "Dense irregular tissue",
-      "Reticular layer of dermis"
+      "Cornified stratified squamous epithelium/Dense irregular connective tissue",
+      "Epidermis/Reticular layer of dermis"
     ],
     "explanation": "Epidermis上方有一層淡粉色透明角質層，所以是cornified；Dermis由上往下可分為Papillary layer與Reticular layer，前者屬loose CNT，後者為dense irregular CNT。\n【出處】（08）共筆Vol.8 P.9",
-    "description": "A、B所指構造名稱？"
+    "description": "A、B所指構造名稱？(A構造/B構造)"
   },
   {
     "num": "08110",
