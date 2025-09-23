@@ -79,11 +79,10 @@
     "num": "06109",
     "path": "midterm-image/b06/06109.png",
     "answer": [
-      "Cilia",
-      "basal body"
+      "Cilia/basal body"
     ],
     "explanation": "圖中所見之組織乍看下為多層上皮，但實際上為含有basal cell的pseudostratified columnar epithelium。而黃色箭頭所指之構造，在LM下較為整齊，且可分辨出一絲一絲的結構，為cilia的特徵。而在cilia下方，呈現深色的一條細線則為basal body，作為axoneme的發生和固著點。",
-    "description": "寫出黃色箭頭所指區域之結構名稱及紅色箭頭所指之深紅色線之名稱。"
+    "description": "寫出黃色箭頭所指區域之結構名稱/紅色箭頭所指之深紅色線之名稱。"
   },
   {
     "num": "06110",
@@ -143,11 +142,10 @@
     "num": "06115",
     "path": "midterm-image/b06/06115.png",
     "answer": [
-      "Bone",
-      "decalcified bone"
+      "compact bone/decalcified bone"
     ],
     "explanation": "圖中可見一整片被染成淡紅色的組織，左側有些線狀排列的空洞，右側則有圓形的大型空洞，組織內則有許多小黑點，沿平行線狀空洞或圍繞圓形空洞排列，由此可知此組織為bone。此外，由於此切片被染色為紅色，代表含有有機質，而非含鈣的無機質，故為decalcified bone。",
-    "description": " 寫出視野下組織名稱及製備方法"
+    "description": " 寫出視野下組織名稱/製備方法"
   },
   {
     "num": "06116",
@@ -216,6 +214,7 @@
     "num": "06123",
     "path": "midterm-image/b06/06123.png",
     "answer": [
+      "Purkinje cell of cerebellum",
       "Purkinje cell"
     ],
     "explanation": "圖中箭頭所指的細胞較大、顏色偏紅，細胞呈現錐狀，可看到細胞有許多process往外伸，為purkinje cell的特徵，亦可判斷此切片為小腦。",
@@ -225,11 +224,10 @@
     "num": "06124",
     "path": "midterm-image/b06/06124.png",
     "answer": [
-      "Mast cell",
-      "metachromasia"
+      "Mast cell/metachromasia"
     ],
     "explanation": "圖中採用的染劑為toluidine blue，應將細胞染為藍色，但此細胞卻被染為紅色，也可觀察出細胞中含有許多顆粒，此為mast cell的特徵。而toluidine blue因染上mast cell中大量的陰離子，使得染劑結構變大，改變折光率，因此變為紅色，此現象稱為metachromasia。",
-    "description": " 寫出染上紅色的細胞名稱，並寫出將染劑由藍轉紅的特性為何"
+    "description": " 寫出染上紅色的細胞名稱/將染劑由藍轉紅的特性為何"
   },
   {
     "num": "06125",
@@ -281,11 +279,10 @@
     "num": "06130",
     "path": "midterm-image/b06/06130.png",
     "answer": [
-      "Smooth muscle",
-      "smooth muscle"
+      "Smooth muscle/smooth muscle"
     ],
     "explanation": "圖中左側的組織為cross section，可見許多細胞呈圓形，緊密、整齊排列，空隙少且細胞核位於細胞中央，為smooth muscle。右側的組織則是lateral section。細胞核較大，細胞呈紡錘型，排列緊密空隙少，無橫紋，也為smooth muscle。",
-    "description": " 依序寫出綠色虛線左右兩邊組織名稱"
+    "description": " 依序寫出綠色虛線左邊組織名稱/右邊組織名稱"
   },
   {
     "num": "06131",
@@ -319,10 +316,11 @@
     "num": "06134",
     "path": "midterm-image/b06/06134.png",
     "answer": [
-      "Epiphyseal plate"
+      "Epiphyseal plate",
+      "Epiphyseal plate of long bone",
     ],
     "explanation": "圖為LM下的低倍視野，藍色範圍組織的上下均為bone，而藍色範圍組織則為cartilage，此cartilage會不斷增生，並加長bone的長度，故此構造稱為epiphyseal plate。",
-    "description": " 寫出虛線所以範圍之結構名稱"
+    "description": " 寫出虛線範圍之結構名稱"
   },
   {
     "num": "06135",
