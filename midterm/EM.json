@@ -1,0 +1,690 @@
+[
+    {
+      "num": "EM001",
+      "path": "midterm-image/EM/EM001.png",
+      "answer": [
+        "P-face plasma membrane"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "下半部構造為何"
+    },
+    {
+      "num": "EM002",
+      "path": "midterm-image/EM/EM002.png",
+      "answer": [
+        "Golgi apparatus"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM003",
+      "path": "midterm-image/EM/EM003.png",
+      "answer": [
+        "lysosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM004",
+      "path": "midterm-image/EM/EM004.png",
+      "answer": [
+        "mitochondria"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "3為何"
+    },
+    {
+      "num": "EM005",
+      "path": "midterm-image/EM/EM005.png",
+      "answer": [
+        "smooth endoplasmic reticulum"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "4為何"
+    },
+    {
+      "num": "EM006",
+      "path": "midterm-image/EM/EM006.png",
+      "answer": [
+        "plasma membrane"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "5為何"
+    },
+    {
+      "num": "EM007",
+      "path": "midterm-image/EM/EM007.png",
+      "answer": [
+        "nuclear envelope"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM008",
+      "path": "midterm-image/EM/EM008.png",
+      "answer": [
+        "heterochromatin"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM009",
+      "path": "midterm-image/EM/EM009.png",
+      "answer": [
+        "ribosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "3為何"
+    },
+    {
+      "num": "EM010",
+      "path": "midterm-image/EM/EM010.png",
+      "answer": [
+        "granular material"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM011",
+      "path": "midterm-image/EM/EM011.png",
+      "answer": [
+        "fibrillar center"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM012",
+      "path": "midterm-image/EM/EM012.png",
+      "answer": [
+        "fibrillar material"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "3為何"
+    },
+    {
+      "num": "EM013",
+      "path": "midterm-image/EM/EM013.png",
+      "answer": [
+        "mitochondria"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM014",
+      "path": "midterm-image/EM/EM014.png",
+      "answer": [
+        "peroxisome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM015",
+      "path": "midterm-image/EM/EM015.png",
+      "answer": [
+        "nuclear lamina"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "4為何"
+    },
+    {
+      "num": "EM016",
+      "path": "midterm-image/EM/EM016.png",
+      "answer": [
+        "phagosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM017",
+      "path": "midterm-image/EM/EM017.png",
+      "answer": [
+        "phagosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM018",
+      "path": "midterm-image/EM/EM018.png",
+      "answer": [
+        "lysosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM019",
+      "path": "midterm-image/EM/EM019.png",
+      "answer": [
+        "axon"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "中間是什麼構造？"
+    },
+    {
+      "num": "EM020",
+      "path": "midterm-image/EM/EM020.png",
+      "answer": [
+        "intermediate filament"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM021",
+      "path": "midterm-image/EM/EM021.png",
+      "answer": [
+        "microtubule"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM022",
+      "path": "midterm-image/EM/EM022.png",
+      "answer": [
+        "matrix granule",
+        "calcium phosphate"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM023",
+      "path": "midterm-image/EM/EM023.png",
+      "answer": [
+        "striation"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM024",
+      "path": "midterm-image/EM/EM024.png",
+      "answer": [
+        "glycogen"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM025",
+      "path": "midterm-image/EM/EM025.png",
+      "answer": [
+        "peroxisome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM026",
+      "path": "midterm-image/EM/EM026.png",
+      "answer": [
+        "lipid"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM027",
+      "path": "midterm-image/EM/EM027.png",
+      "answer": [
+        "peroxisome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM028",
+      "path": "midterm-image/EM/EM028.png",
+      "answer": [
+        "mitochondria"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM029",
+      "path": "midterm-image/EM/EM029.png",
+      "answer": [
+        "tight junction"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM030",
+      "path": "midterm-image/EM/EM030.png",
+      "answer": [
+        "intermediate junction"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM031",
+      "path": "midterm-image/EM/EM031.png",
+      "answer": [
+        "desmosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM032",
+      "path": "midterm-image/EM/EM032.png",
+      "answer": [
+        "intermediate filament"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "3為何"
+    },
+    {
+      "num": "EM033",
+      "path": "midterm-image/EM/EM033.png",
+      "answer": [
+        "terminal web"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "4為何"
+    },
+    {
+      "num": "EM034",
+      "path": "midterm-image/EM/EM034.png",
+      "answer": [
+        "microvilli"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "5為何"
+    },
+    {
+      "num": "EM035",
+      "path": "midterm-image/EM/EM035.png",
+      "answer": [
+        "hemidesmosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM036",
+      "path": "midterm-image/EM/EM036.png",
+      "answer": [
+        "basal lamina"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM037",
+      "path": "midterm-image/EM/EM037.png",
+      "answer": [
+        "gap junction"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM038",
+      "path": "midterm-image/EM/EM038.png",
+      "answer": [
+        "collagen"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM039",
+      "path": "midterm-image/EM/EM039.png",
+      "answer": [
+        "secondary lysosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM040",
+      "path": "midterm-image/EM/EM040.png",
+      "answer": [
+        "multivesicular body"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM041",
+      "path": "midterm-image/EM/EM041.png",
+      "answer": [
+        "lysosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "3為何"
+    },
+    {
+      "num": "EM042",
+      "path": "midterm-image/EM/EM042.png",
+      "answer": [
+        "reticulocyte"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM043",
+      "path": "midterm-image/EM/EM043.png",
+      "answer": [
+        "platelet"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM044",
+      "path": "midterm-image/EM/EM044.png",
+      "answer": [
+        "neutrophil"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM045",
+      "path": "midterm-image/EM/EM045.png",
+      "answer": [
+        "specific granule"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM046",
+      "path": "midterm-image/EM/EM046.png",
+      "answer": [
+        "primary granule"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM047",
+      "path": "midterm-image/EM/EM047.png",
+      "answer": [
+        "basophil"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM048",
+      "path": "midterm-image/EM/EM048.png",
+      "answer": [
+        "specific granule (of basophil)"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM049",
+      "path": "midterm-image/EM/EM049.png",
+      "answer": [
+        "eosinophil"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM050",
+      "path": "midterm-image/EM/EM050.png",
+      "answer": [
+        "crystalloid body"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM051",
+      "path": "midterm-image/EM/EM051.png",
+      "answer": [
+        "megakaryocyte"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM052",
+      "path": "midterm-image/EM/EM052.png",
+      "answer": [
+        "platelet demarcation channel"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM053",
+      "path": "midterm-image/EM/EM053.png",
+      "answer": [
+        "platelet"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM054",
+      "path": "midterm-image/EM/EM054.png",
+      "answer": [
+        "alpha-granule"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM055",
+      "path": "midterm-image/EM/EM055.png",
+      "answer": [
+        "monocyte"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM056",
+      "path": "midterm-image/EM/EM056.png",
+      "answer": [
+        "lysosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM057",
+      "path": "midterm-image/EM/EM057.png",
+      "answer": [
+        "lymphocyte"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM058",
+      "path": "midterm-image/EM/EM058.png",
+      "answer": [
+        "macrophage"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM059",
+      "path": "midterm-image/EM/EM059.png",
+      "answer": [
+        "phagosome"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM060",
+      "path": "midterm-image/EM/EM060.png",
+      "answer": [
+        "mast cell"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM061",
+      "path": "midterm-image/EM/EM061.png",
+      "answer": [
+        "elastin"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "1為何"
+    },
+    {
+      "num": "EM062",
+      "path": "midterm-image/EM/EM062.png",
+      "answer": [
+        "microfibril"
+      ],
+      "explanation": "Wheater's functional histology",
+      "description": "2為何"
+    },
+    {
+      "num": "EM063",
+      "path": "midterm-image/EM/EM063.png",
+      "answer": [
+        "clathrin-coated vesicle"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "1為何"
+    },
+    {
+      "num": "EM064",
+      "path": "midterm-image/EM/EM064.png",
+      "answer": [
+        "pinocytotic vesicle"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "2為何"
+    },
+    {
+      "num": "EM065",
+      "path": "midterm-image/EM/EM065.png",
+      "answer": [
+        "early endosome"
+      ],
+      "explanation": "Histology: a text and atlas 通靈忽略",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM066",
+      "path": "midterm-image/EM/EM066.png",
+      "answer": [
+        "autophagosome"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM067",
+      "path": "midterm-image/EM/EM067.png",
+      "answer": [
+        "Golgi apparatus"
+      ],
+      "explanation": "Histology: a text and atlas 通靈忽略",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM068",
+      "path": "midterm-image/EM/EM068.png",
+      "answer": [
+        "nuclear lamina",
+        "intermediate filament"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？/ 組成成分？"
+    },
+    {
+      "num": "EM069",
+      "path": "midterm-image/EM/EM069.png",
+      "answer": [
+        "microvilli"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM070",
+      "path": "midterm-image/EM/EM070.png",
+      "answer": [
+        "microvilli"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM071",
+      "path": "midterm-image/EM/EM071.png",
+      "answer": [
+        "microvilli"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM072",
+      "path": "midterm-image/EM/EM072.png",
+      "answer": [
+        "stereocilia"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM073",
+      "path": "midterm-image/EM/EM073.png",
+      "answer": [
+        "basal infolding"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM074",
+      "path": "midterm-image/EM/EM074.png",
+      "answer": [
+        "plasma cell"
+      ],
+      "explanation": "Histology: a text and atlas",
+      "description": "這是甚麼血液細胞？"
+    },
+    {
+      "num": "EM075",
+      "path": "midterm-image/EM/EM075.png",
+      "answer": [
+        "normoblast"
+      ],
+      "explanation": "Histology: a text and atlas 通靈忽略",
+      "description": "這是甚麼？"
+    },
+    {
+      "num": "EM076",
+      "path": "midterm-image/EM/EM076.png",
+      "answer": [
+        "erythrocyte",
+        "platelet",
+        "lymphocyte"
+      ],
+      "explanation": "https://embryology.med.unsw.edu.au/",
+      "description": "左中右依序為何？"
+    }
+  ]
