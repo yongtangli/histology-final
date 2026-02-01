@@ -1,0 +1,57 @@
+[
+      {
+      "num": "b03quiz-01",
+      "path": "b03quiz-01.png",
+      "answer": [
+        "Parathyroid gland"
+      ],
+      "explanation": "圖右方是thyroid gland，具有一顆顆染為紅色的thyroid follicles。圖左方是 parathyroid gland，細胞體積較小、較深 染、實心。 ",
+      "description": "寫出虛線左邊的器官名稱。"
+      },
+      {
+      "num": "b03quiz-02",
+      "path": "b03quiz-02.png",
+      "answer": [
+        "Cervical gland"
+      ],
+      "explanation": "首先要判斷此為何種器官，由上皮組織的變化（從simple  columnar 變成 stratified squamous）加上 Nabothian cyst 能先 初步認定此為cervix的地方。而在此處的腺體稱為Cervical  gland，位於子宮頸的lamina propria中，有分支（branched  tubular gland），和 uterine 的 simple tubular gland 不同。",
+      "description": "寫出箭號所指的構造名稱。 "
+      },
+      {
+      "num": "b03quiz-03",
+      "path": "b03quiz-03.png",
+      "answer": [
+        "Parafollicular cell"
+      ],
+      "explanation": "Thyroid follicle 是 thyroid gland 的一個基本單位。Follicle由 follicular cell 和其所包圍的 colloid形成。 在follicle 之間的縫隙中有parafollicular cell，為較大、較淡 染、成群的細胞。Parafollicular cell分泌 calcitonin，有許多 分泌顆粒，但製造玻片使用的固定液無法固定此顆粒，故 細胞質呈淡染。 ",
+      "description": "寫出箭號所指的細胞名稱。"
+      },
+      {
+      "num": "b03quiz-04",
+      "path": "b03quiz-04.png",
+      "answer": [
+        "Interstitial gland"
+      ],
+      "explanation": "Ovary組織切片可以觀察到細胞核較圓、細胞核間距較大的 群聚細胞，周圍被核扁平、細胞核間距較小的結締組織 包圍，可判定為interstitial gland。Interstitial gland 是一團散 佈在stroma間的類上皮細胞，由濾泡退化後未被分解而留 在卵巢皮質的theca interna組成。",
+      "description": "寫出黑色線所圍範圍內的構造名稱"
+      },
+      {
+      "num": "b03quiz-05",
+      "path": "b03quiz-05.png",
+      "answer": [
+        "Acidophil"
+      ],
+      "explanation": "在pituitary gland 的 pars distalis（深染部分），可以看到 3 種細胞： Acidophil：細胞較 basophils小，細胞質呈紅色。 Basophil：細胞較acidophils大，細胞質呈藍紫色。 Chromophobes：細胞質極淡染，僅可見其細胞核。 ",
+      "description": "寫出箭頭所指細胞種類名稱"
+      },
+      {
+      "num": "b03quiz-06",
+      "path": "b03quiz-06.png",
+      "answer": [
+        "Herring body"
+      ],
+      "explanation": "由此處佈滿axon且出現Herring body所以能看出這是pars  nervosa。Pituitary gland 的 pars nervosa（淡染部分），可以 看到粉紅色的實心構造Herring body，是neurosecretory  vesicles 堆積於 axon terminal 所形成的膨大構造。Herring  body 有大有小，容易和成群的red blood cells搞混，可尋找 比red blood cells 大的 Herring body 觀察，或是利用旁邊有 無endothelial cell 判斷（Herring body 無，red blood cells 有）。 ",
+      "description": "寫出箭號所指之粉紅色球狀構造名稱。"
+      },
+      
+]
