@@ -53,5 +53,266 @@
       "explanation": "由此處佈滿axon且出現Herring body所以能看出這是pars  nervosa。Pituitary gland 的 pars nervosa（淡染部分），可以 看到粉紅色的實心構造Herring body，是neurosecretory  vesicles 堆積於 axon terminal 所形成的膨大構造。Herring  body 有大有小，容易和成群的red blood cells搞混，可尋找 比red blood cells 大的 Herring body 觀察，或是利用旁邊有 無endothelial cell 判斷（Herring body 無，red blood cells 有）。 ",
       "description": "寫出箭號所指之粉紅色球狀構造名稱。"
       },
+      {
+      "num": "b03quiz-07",
+      "path": "b03quiz-07.png",
+      "answer": [
+        "Vagina"
+      ],
+      "explanation": "Vagina 的 epithelium 是 non-cornified stratified squamous  epithelium，加上上皮因為分泌glycogen所以呈現空泡狀。 且其lamina propria沒有 gland。",
+      "description": "寫出視野下器官部位名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-08",
+      "path": "b03quiz-08.png",
+      "answer": [
+        "Pineal gland"
+      ],
+      "explanation": "Pineal gland 外圍由 pia mater包覆所形成，向內形成粉色的 septa，將 pineal body 分成數個 lobules。重要特徵為brain  sand，有大有小，呈藍紫色，有時可見其有同心圓狀往外 堆積的性質。 ",
+      "description": "寫出視野下器官名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-09",
+      "path": "b03quiz-09.png",
+      "answer": [
+        "Brain sand"
+      ],
+      "explanation": "Pineal gland 外圍由 pia mater包覆所形成，向內形成粉色的 septa，將 pineal body 分成數個 lobules。重要特徵為brain  sand，有大有小，呈藍紫色，有時可見其有同心圓狀往外 堆積的性質。 ",
+      "description": "寫出箭號右方所指構造名稱（Be specific）。"
+      },
+      {
+      "num": "b03quiz-10",
+      "path": "b03quiz-10.png",
+      "answer": [
+        "Oviduct;peg cell"
+      ],
+      "explanation": "Oviduct 管壁可分三層：serosa、muscularis、mucosa（由外 至內），圖中顯示的是mucosa的部分。Mucosa呈指狀突 起，由simple columnar epithelium 構成，又再分為 ciliated  cell（有 cilia、下方有深紅色線條basal body）和non- ciliated cell（peg cell）（沒有 basal body 和 cilia、細胞凸向 管腔）。",
+      "description": "寫出視野下結構名稱及箭號所指的細胞名稱。"
+      },
+      {
+      "num": "b03quiz-11",
+      "path": "b03quiz-11.png",
+      "answer": [
+        "Zona glomerulosa"
+      ],
+      "explanation": "圖示為adrenal gland的 capsule和部分 cortex。淡粉色的 capsule 下方是 zona glomerulosa，為 simple columnar  epithelium，聚集成團狀，是cortex中最薄的。 ",
+      "description": "寫出箭頭所指之區域名稱（Be specific）。"
+      },
+      {
+      "num": "b03quiz-12",
+      "path": "b03quiz-12.png",
+      "answer": [
+        "Spiral artery"
+      ],
+      "explanation": "低倍圖為uterus的stratum functionale，而高倍圖中在 stratum functionale 中連續排列、旋渦狀的物體即為spiral  artery。 ",
+      "description": "寫出紅色圓圈內的構造名稱。（Be specific） "
+      },
+      {
+      "num": "b03quiz-13",
+      "path": "b03quiz-13.png",
+      "answer": [
+        "Zona reticularis"
+      ],
+      "explanation": "此圖為adrenal gland的 cortex（深染）和 medulla（淡 染）。虛線左邊，是最靠近medulla的一層cortex即zona  reticularis，細胞較小、深染，呈現索狀，空隙部分為 capillary。",
+      "description": "寫出最靠近虛線左邊之構造名稱。"
+      },
+      {
+      "num": "b03quiz-14",
+      "path": "b03quiz-14.png",
+      "answer": [
+        "Adrenal medulla"
+      ],
+      "explanation": "虛線右邊，是較淡染的medulla。",
+      "description": "寫出虛線右邊之構造名稱。 "
+      },
+      {
+      "num": "b03quiz-15",
+      "path": "b03quiz-15.png",
+      "answer": [
+        "Secondary follicle;antrum"
+      ],
+      "explanation": "（A） Secondary follicle：oocyte 會變大且偏向一邊，granulosa cell 的數量與層數增加。 最重要的辨別特徵是 （B） antrum，為stratum granulosum中空腔合起來形成的空間，內含follicular fluid，為 oocyte和 follicle成長所需的物質。 ",
+      "description": "寫出（A）黑色圓圈內的構造名稱及（B）藍色圓圈內的構造名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-16",
+      "path": "b03quiz-16.png",
+      "answer": [
+        "Primary spermatocye"
+      ],
+      "explanation": "Primary spermatocyte 細胞本身大，核是 seminiferous tubule 裡最大的，有一叢一叢深染色質絲，沒有附著在basement  membrane上。 ",
+      "description": "寫出箭號所指細胞名稱。 "
+      },
+      {
+      "num": "b03quiz-17",
+      "path": "b03quiz-17.png",
+      "answer": [
+        "Granulosa lutein cell; decidual cell"
+      ],
+      "explanation": "Granulosa lutein cell 淡染、嗜酸性，細胞與核都較大，排列 鬆散，位於靠近黃體的中心、有油滴使得染色後有透明空 泡。在其周圍可見theca lutein cell，較深染，細胞與核都較 小，排列緊密。 圖上方可以看到villi，可知為placenta。Decidual cell白白 胖胖、細胞界限明顯、細胞核淡染、核仁明顯、細胞質呈 空泡狀，會與深染的stroma cell交錯出現。 兩者的差別為granulosa lutein cell周圍應該觀察到theca  lutein cell，且老師說考 decidual會考看得到 villi的玻片。 ",
+      "description": "寫出（A）及（B）黑色線範圍內的細胞名稱（Be specific）。"
+      },
+      {
+      "num": "b03quiz-18",
+      "path": "b03quiz-18.png",
+      "answer": [
+        "Myoid cell"
+      ],
+      "explanation": "位於tunica propria（包圍 seminiferous tubule 的 CNT），扁 平，細胞核細長，可以收縮幫助運輸管腔內的精子。 ",
+      "description": "寫出箭號所指細胞名稱。"
+      },
+      {
+      "num": "b03quiz-19",
+      "path": "b03quiz-19.png",
+      "answer": [
+        "Proliferative phase; secretory phase"
+      ],
+      "explanation": "此為uterus切片 (A)圖中uterine gland 呈窄直狀（simple straight tubule）且分布靠近basal layer，是 proliferative phase (B)圖較厚的endometrium，以及鋸齒狀、連接lumen的uterine gland 可以判斷為 secretory phase。 ",
+      "description": "寫出視野下此器官（A）及（B）所代表的時期（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-20",
+      "path": "b03quiz-20.png",
+      "answer": [
+        "Straight tubule"
+      ],
+      "explanation": "Straight tubule 的 epithelium 以 simple cuboid epithelium 為 主，細胞高度較rete testis高。由特化的Sertoli cell組成， 故特徵基本上與Sertoli cell相同，可看到明顯核仁，此時 已無法觀察到spermatogenic cells。 ",
+      "description": "寫出箭號所指部位名稱。"
+      },
+      {
+      "num": "b03quiz-21",
+      "path": "b03quiz-21.png",
+      "answer": [
+        "Cytotrophoblast; syncytiotrophoblast"
+      ],
+      "explanation": "此為高倍下chorionic villi。Syncytiotrophoblast細胞扁平、 深染、可能多核，細胞融合而沒有細胞界限，有時會聚集 成團狀的knot。Cytotrophoblast在 syncytiotrophoblast內 側，細胞圓形、淡染、單核、體積較大。",
+      "description": "寫出視野下（A）處箭頭及（B）處箭頭所指的細胞名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-22",
+      "path": "b03quiz-22.png",
+      "answer": [
+        "Ductus efferentes"
+      ],
+      "explanation": "虛線右邊為ductus efferentes。特徵為其epithelium為 simple cuboid epithelium 和 simple columnar epithelium 混雜 在一起、管腔凹凸不平。虛線左邊則是ductus epididymis， 為pseudostratified columnar epithelium with stereocilia，管腔 連續完整，epithelium高度較高。 ",
+      "description": "寫出虛線右邊之器官部位名稱。"
+      },
+      {
+      "num": "b03quiz-23",
+      "path": "b03quiz-23.png",
+      "answer": [
+        "Pseudostratified columnar epithelium with stereocilia"
+      ],
+      "explanation": "此為epididymis，其上皮細胞為pseudostratified columnar  epithelium with stereocilia。 ",
+      "description": "寫出此構造中上皮的種類名稱。"
+      },
+      {
+      "num": "b03quiz-24",
+      "path": "b03quiz-24.png",
+      "answer": [
+        "B"
+      ],
+      "explanation": "Atretic follicle 的 oocyte 會開始變小萎縮，甚至消失。 Granulosa cells 開始凋亡，像往空腔裡掉落，且染色體會濃 縮、濃染。Zona pellucida會往內褶皺，變得不圓。Basal  lamina 會增厚成透明均質的glassy membrane。Antrum周圍 細胞lining不平整。  ",
+      "description": "寫出視野下（A）及（B）何者是Atretic follicle？"
+      },
+      {
+      "num": "b03quiz-25",
+      "path": "b03quiz-25.png",
+      "answer": [
+        "Vas deferens"
+      ],
+      "explanation": "此片為spermatic cord橫切面的高倍圖，有一平滑肌特別 厚、紅染的結構，為vas deferens。其表皮為 pseudostratified columnar epithelium，有很厚的 smooth  muscle layers，厚度可達 lumen內徑的3-5倍以上，走向呈 內縱中環外縱。 ",
+      "description": "寫出圓圈內構造名稱。"
+      },
+      {
+      "num": "b03quiz-26",
+      "path": "b03quiz-26.png",
+      "answer": [
+        "Seminal vesicle"
+      ],
+      "explanation": "在低倍下，seminal vesicle呈現交錯複雜的長條型蜂窩狀結 構，lumen高度分岔是重要特徵。 Seminal vesicle 結構分層（由內到外）：epithelium、內環 外縱的平滑肌、capsule。 ",
+      "description": "寫出器官名稱（Be specific）。"
+      },
+      {
+      "num": "b03quiz-27",
+      "path": "b03quiz-27.png",
+      "answer": [
+        "Tertiary villi"
+      ],
+      "explanation": "島狀結構為placenta的chorionic villi，villi中間有時可以看 到被橫切的血管。Chorionic villi的最外層是較深染的 syncytiotrophoblast，表面還有 microvilli。 ",
+      "description": "寫出視野下所指範圍內的構造名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-28",
+      "path": "b03quiz-28.png",
+      "answer": [
+        "Prostate gland"
+      ],
+      "explanation": "Prostate gland 含有大量 smooth muscle，此為與 seminal  vesicle 分別的重要特徵。Lamina propria以及 epithelium會 產生許多縱走的褶皺，褶皺中又會分出更小的褶皺，在切 片中呈現許多大小不一的空腔（alveoli）。 ",
+      "description": "寫出器官名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-29",
+      "path": "b03quiz-29.png",
+      "answer": [
+        "Germinal epithelium"
+      ],
+      "explanation": "在cortex淺層處可以看到很多primordial follicle，每個 follicle 內含一個 oocyte，核比例大，核仁明顯，外圍由 simple squamous 的 follicular cells 包圍。由此可辨認出此片 為ovary。 Ovary的最外層稱為germinal epithelium，或 mesothelium/visceral peritoneum，由 simple cuboid 或 squamous epithelium 組成，包住 ovary。 ",
+      "description": "寫出兩箭號中間所指的構造名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-30",
+      "path": "b03quiz-30.png",
+      "answer": [
+        "Tunica albuginea"
+      ],
+      "explanation": "此圖為penis，虛線右邊是tunica albuginea，主要由豐富的 collagen fiber 和 dense CNT 構成，非常緻密，在 Orcein- Picroindigocarmine-Carmine 染色下被染成藍綠色。 ",
+      "description": "寫出虛線右邊之器官部位名稱。"
+      },
+      {
+      "num": "b03quiz-31",
+      "path": "b03quiz-31.png",
+      "answer": [
+        "Venous sinus of corpora cavernosa"
+      ],
+      "explanation": "此圖為penis，虛線左邊是corpora cavernosa，主要由 smooth muscle 和 loose CNT構成，因為含有smooth muscle 所以顏色偏黃。Loose CNT具有trabeculae的構造，其圍出 的空腔為venous sinus。 Venous sinus 表面有扁平的endothelium cell，勃起時可容納 血液。 ",
+      "description": "寫出箭號所指空間名稱。 "
+      },
+      {
+      "num": "b03quiz-32",
+      "path": "b03quiz-32.png",
+      "answer": [
+        "Late primary follicle; zona pellucida "
+      ],
+      "explanation": "辨認重點：Follicular cells增殖為 granulosa cells，呈多層 cuboid，稱為stratum granulosa。（Early primary follicle 只 有單層）。 Late primary follicle 的 basal lamina 外圈的 theca folliculi 還 未分化成theca interna及 theca externa。 Zona pellucida 位於 oocyte和 granulosa cells 中間，但沒有 完全隔開，granulosa cell的 process會穿過 zona pellucida， 滋養oocyte。",
+      "description": "寫出（A）黑色圓圈內的構造名稱及（B）兩箭號中間所指的構造名稱 （Be specific）。 "
+      },
+      {
+      "num": "b03quiz-33",
+      "path": "b03quiz-33.png",
+      "answer": [
+        "Penile urethra"
+      ],
+      "explanation": "此為Orcein-Picroindigocarmine-Carmine 染色下的 penile  urethra，管腔上皮周圍可觀察到一圈深棕色的elastic  fiber，中間空腔為urethra。 ",
+      "description": "寫出圓圈內構造名稱（Be specific）。 "
+      },
+      {
+      "num": "b03quiz-34",
+      "path": "b03quiz-34.png",
+      "answer": [
+        "Stratified columnar epithelium"
+      ],
+      "explanation": "Penile urethra 管腔表面為 stratified columnar epithelium，此 epithelium 在人體裡非常少見，全身只有此處和眼睛結膜 （conjunctiva）有這種特殊上皮。 ",
+      "description": "寫出此構造中上皮的種類。 "
+      },
+      {
+      "num": "b03quiz-35",
+      "path": "b03quiz-35.png",
+      "answer": [
+        "Mammary gland; active"
+      ],
+      "explanation": "Active 的 gland和 alveoli很茂盛，且 alveoli的 lumen較 大，可以此區別pregnant時期。有很發達的duct，結締組 織和adipose tissue 變少。 ",
+      "description": "寫出視野下器官名稱及目前所處的狀態。"
+      },
       
 ]
