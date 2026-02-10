@@ -9,12 +9,49 @@
       "description": " 指標所指為何種細胞？"
       },
       {
-      "num": "b04quiz-01",
-      "path": "b04quiz-01.png",
+      "num": "b04quiz-02",
+      "path": "b04quiz-02.png",
       "answer": [
-        "Acidophil"
+        "Spiral ganglion"
       ],
-      "explanation": "細胞較basophils小，細胞核偏中間，細胞質呈紅色 （eosinophilic）。 ",
-      "description": " 指標所指為何種細胞？"
+      "explanation": "由左圖的螺旋切面能發現此為cochlea周圍的組織切片圖。 在modiolus部分切到的ganglion是spiral ganglion，為 bipolar neuron，可以在其旁邊看到afferent fibers（A）和 efferent fibers（E）。 ",
+      "description": " 圖中G為何種結構？"
       },
+      {
+      "num": "b04quiz-03",
+      "path": "b04quiz-03.png",
+      "answer": [
+        "Antrum"
+      ],
+      "explanation": "Secondary follicle 裡面的空泡狀結構，內含許多granulosa cell 分泌的液體。",
+      "description": "寫出箭號所指圈狀結構之名稱。"
+      },
+      {
+      "num": "b04quiz-04",
+      "path": "b04quiz-04.png",
+      "answer": [
+        "Herring body"
+      ],
+      "explanation": "染成粉紅色的實心構造，為neurosecretory vesicles堆積於 axon terminal（或接近 terminals的部分）所形成的膨大構 造。Herring body外圍有一層membrane包覆，調整光圈可 隱約看見，紅血球則無，而且紅血球通常只會出現在微血 管裡。",
+      "description": " 寫出箭頭所指之構造名稱。"
+      },
+      {
+      "num": "b04quiz-05",
+      "path": "b04quiz-05.png",
+      "answer": [
+        "Stria vascularis"
+      ],
+      "explanation": "在spiral ligament（為 cochlea epi. 的增生）表面，製造 endolymph、運送鉀離子。 是人體少數epithelium內的血 管。富含粒線體，在H&E下呈紅色。",
+      "description": " 寫出箭頭所指之構造名稱。"
+      },
+      {
+      "num": "b04quiz-06",
+      "path": "b04quiz-06.png",
+      "answer": [
+        "Parafollicular cell "
+      ],
+      "explanation": "較大、較淡染（分泌calcitonin，有許多分泌顆粒），成群 位於follicle之間的隙縫中。",
+      "description": " 寫出箭頭所指之細胞名稱。"
+      },
+      
 ]
