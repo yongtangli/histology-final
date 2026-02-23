@@ -98,5 +98,41 @@
       "explanation": "分布於ovary的cortex淺層處且oocyte外面有扁平狀 follicular cell 包圍住的為 primordial follicle；有 zona  pellucida 圍繞在 oocyte 且 follicular cell 呈單層 cuboid 狀的為early primary follicle。",
       "description": "寫出綠色及白色圓圈所指範圍之構造名稱。"
       },
+      {
+      "num": "b06quiz-12",
+      "path": "b06quiz-12.png",
+      "answer": [
+        "Retinal pigment epithelium"
+      ],
+      "explanation": "Retina 最外側有一層細胞具有黑色素沉積，可吸收多餘光線防止炫光，稱為retinal pigment epithelium。",
+      "description": "寫出箭頭所指之細胞名稱。"
+      },
+      {
+      "num": "b06quiz-13",
+      "path": "b06quiz-13.png",
+      "answer": [
+        "Peg cell"
+      ],
+      "explanation": "在輸卵管上皮細胞中可以看到有些細胞有纖毛，而有些則無。無纖毛的細胞稱為peg cell，高度通常較高且凸向管腔，具有分泌功能。",
+      "description": "寫出箭號所指之細胞名稱（Be specific）"
+      },
+      {
+      "num": "b06quiz-14",
+      "path": "b06quiz-14.png",
+      "answer": [
+        "Cytotrophoblast"
+      ],
+      "explanation": "此切片為placenta 中 villi 的切片，最外層扁平狀深染細胞 為syncytiotrophoblast，在其內側細胞淡染且呈現圓形的為 cytotrophoblast。",
+      "description": "寫出箭號所指細胞名稱（Be specific）。 "
+      },
+      {
+      "num": "b06quiz-15",
+      "path": "b06quiz-15.png",
+      "answer": [
+        "Zona fasciculata"
+      ],
+      "explanation": "此切片中可看到adrenal gland capsule下的 zona glomerulosa以及zona fasciculata兩層，其中zona fasciculata細胞排列成束狀，之間有許多sinusoid，此層佔cortex大部分。",
+      "description": "寫出箭頭所指區域名稱。"
+      },
       
 ]
