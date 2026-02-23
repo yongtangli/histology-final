@@ -134,5 +134,13 @@
       "explanation": "此切片中可看到adrenal gland capsule下的 zona glomerulosa以及zona fasciculata兩層，其中zona fasciculata細胞排列成束狀，之間有許多sinusoid，此層佔cortex大部分。",
       "description": "寫出箭頭所指區域名稱。"
       },
-      
+      {
+      "num": "b06quiz-16",
+      "path": "b06quiz-16.png",
+      "answer": [
+        "Outer plexiform layer"
+      ],
+      "explanation": "此處為optic part of retina ，其中位在 inner nuclear layer 以及outer nuclear layer 之間的為 outer plexiform layer，有 rod 及cone 細胞的process。",
+      "description": "寫出箭頭範圍內的層次名稱。"
+      },
 ]
