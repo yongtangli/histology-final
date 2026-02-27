@@ -155,7 +155,7 @@
       {
       "num": "b06quiz-18",
       "path": "b06quiz-18.png",
-      "answer": 
+      "answer": [
         "Brain sand"
       ],
       "explanation": "Brain sand 主要由磷酸鈣組成，在染色下呈現深紫色，為判斷pineal gland 之重要依據。",
@@ -164,7 +164,7 @@
       {
       "num": "b06quiz-19",
       "path": "b06quiz-19.png",
-      "answer": 
+      "answer": [
         "Antrum"
       ],
       "explanation": "Secondary follicle 之空腔稱為 antrum，內部充滿 follicular fluid。 ",
@@ -173,7 +173,7 @@
       {
       "num": "b06quiz-20",
       "path": "b06quiz-20.png",
-      "answer": 
+      "answer": [
         "Spiral ganglion"
       ],
       "explanation": "在耳蝸的modiolus處切到的神經束為spiral ganglion，接收hair cell 的訊息後傳入brainstem。",
@@ -182,7 +182,7 @@
       {
       "num": "b06quiz-21",
       "path": "b06quiz-21.png",
-      "answer": 
+      "answer": [
         "Prostate gland"
       ],
       "explanation": "片中的粉紅色同心圓構造為prostatic concretion ，外側佈滿的粉紅色細胞為平滑肌細胞，此兩大特徵可判斷為prostate gland。",
@@ -191,7 +191,7 @@
       {
       "num": "b06quiz-22",
       "path": "b06quiz-22.png",
-      "answer": 
+      "answer": [
         "Chief cell of parathyroid gland"
       ],
       "explanation": "此為parathyroid gland 之切片，主要可以看到較大的oxyphil cell 以及較小之 chief cell。細胞之大小可以用核與核之間的距離判斷。",
@@ -200,7 +200,7 @@
       {
       "num": "b06quiz-23",
       "path": "b06quiz-23.png",
-      "answer": 
+      "answer": [
         "Ciliary process"
       ],
       "explanation": "上方為水晶體，其前方的構造則為iris。Ciliary body 包含ciliary muscle 以及 ciliary process。",
@@ -209,7 +209,7 @@
       {
       "num": "b06quiz-24",
       "path": "b06quiz-24.png",
-      "answer": 
+      "answer": [
         "Stratified columnar epithelium"
       ],
       "explanation": "尿道周邊有許多trabeculae 和venous sinus，固可判斷應為penile urethra，此處上皮為人體少見之stratified columnar epithelium。",
@@ -218,7 +218,7 @@
       {
       "num": "b06quiz-25",
       "path": "b06quiz-25.png",
-      "answer": 
+      "answer": [
         "Tunica albuginea of penis"
       ],
       "explanation": "中央淡染區域可以看到有許多lacuna，故判斷應為penis的勃起組織，而外側緻密結締組織即為tunica albuginea。",
@@ -227,7 +227,7 @@
       {
       "num": "b06quiz-26",
       "path": "b06quiz-26.png",
-      "answer": 
+      "answer": [
         "Lacuna of penis"
       ],
       "explanation": "左側緻密性結締組織為tunica albuginea，其所包覆的構造為 penis 之勃起構造，當中的loose CNT稱為trabeculae，而有一層上皮細胞圍成之空腔為lacuna，勃起時會充滿血液。",
@@ -236,7 +236,7 @@
       {
       "num": "b06quiz-27",
       "path": "b06quiz-27.png",
-      "answer": 
+      "answer": [
         "Macula of vestibule"
       ],
       "explanation": "此處為vestibule，側邊增厚處為macula，上有otolithic membrane，可與endolymph 產生相對位移而引發感覺。",
@@ -245,7 +245,7 @@
       {
       "num": "b06quiz-28",
       "path": "b06quiz-28.png",
-      "answer": 
+      "answer": [
         "A:Mammary gland,active B:Mammary gland,inactive"
       ],
       "explanation": "A中可看見明顯之duct 以及 alveoli，故應為active之乳腺；B則可見connective tissue以及 adipose tissue佔大多數，故應為inactive之乳腺。",
@@ -254,7 +254,7 @@
       {
       "num": "b06quiz-29",
       "path": "b06quiz-29.png",
-      "answer": 
+      "answer": [
         "Leydig cell"
       ],
       "explanation": "位於interstitial space 且細胞較大、細胞質呈紅色。",
@@ -263,7 +263,7 @@
       {
       "num": "b06quiz-30",
       "path": "b06quiz-30.png",
-      "answer": 
+      "answer": [
         "Granulosa lutein cell"
       ],
       "explanation": "同時可以看到細胞較小與較大的兩區可判斷為corpus luteum，其中細胞較大較淡染者為 granulosa lutein cell。",
@@ -272,7 +272,7 @@
       {
       "num": "b06quiz-31",
       "path": "b06quiz-31.png",
-      "answer": 
+      "answer": [
         "Scala media"
       ],
       "explanation": "Cochlear canal 會被分成三個空間，其中最小且被兩個membrane 夾在中間的為scala media。",
@@ -281,7 +281,7 @@
       {
       "num": "b06quiz-32",
       "path": "b06quiz-32.png",
-      "answer": 
+      "answer": [
         "(Tertiary) Villus"
       ],
       "explanation": "可見最外層扁平狀深染之syncytiotrophoblast，及內側淡染圓形之cytotrophoblast，可判斷為villus。",
@@ -290,7 +290,7 @@
       {
       "num": "b06quiz-33",
       "path": "b06quiz-33.png",
-      "answer": 
+      "answer": [
         "Ora serrata"
       ],
       "explanation": "右下為ciliary body，可大致判斷此處為retina。有可見交界處兩側細胞層數不同，故應為nonvisual part 以及 visual part交界處，稱為ora serrata。",
@@ -299,7 +299,7 @@
       {
       "num": "b06quiz-34",
       "path": "b06quiz-34.png",
-      "answer": 
+      "answer": [
         "Ovary"
       ],
       "explanation": "可以看到裡面有許多follicle 故應為ovary。",
@@ -308,7 +308,7 @@
       {
       "num": "b06quiz-35",
       "path": "b06quiz-35.png",
-      "answer": 
+      "answer": [
         "Vas deferens"
       ],
       "explanation": "有很厚平滑肌層且其厚度可達lumen 3~5倍以上之構造為 Vas deferens。",
