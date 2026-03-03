@@ -71,4 +71,49 @@
       "explanation": "此為Orcein-Picroindigocarmine-Carmine 染色下的 penile urethra，管腔上皮周圍可觀察到一圈深棕色的elastic  fiber，中間空腔為urethra。 ",
       "description": " 寫出圈圈內構造名稱。"
       },
+      {
+      "num": "b07quiz-09",
+      "path": "b07quiz-09.png",
+      "answer": [
+        "Stratified columnar epithelium"
+      ],
+      "explanation": "Penile urethra 管腔表面為 stratified columnar epithelium，此 epithelium 在人體裡非常少見，全身只有此處和眼睛結膜 （conjunctiva）有這種特殊上皮。 ",
+      "description": "承上題，寫出此構造中上皮的種類。"
+      },
+      {
+      "num": "b07quiz-10",
+      "path": "b07quiz-10.png",
+      "answer": [
+        "Tunica albuginea"
+      ],
+      "explanation": "中央淡染區域可以看到有許多lacuna，故判斷應為penis的勃起組織，而外側緻密結締組織即為tunica albuginea。 ",
+      "description": "寫出箭頭所指構造名稱。 "
+      },
+      {
+      "num": "b07quiz-11",
+      "path": "b07quiz-11.png",
+      "answer": [
+        "Antrum"
+      ],
+      "explanation": "stratum granulosum 中的空腔稱為 antrum。Granulosa cell還沒被擠到周圍，也沒有出現cumulus oophorus（火箭發射台），故可知為secondary follicle。 ",
+      "description": "寫出箭號所指圈狀結構。 "
+      },
+      {
+      "num": "b07quiz-12",
+      "path": "b07quiz-12.png",
+      "answer": [
+        "Parafollicular cells (of thyroid gland)"
+      ],
+      "explanation": "Parafollicular cells 也稱之為 clear cell、C-Cell 明顯的特徵是細胞比較大、較淡染、成群位於follicle間隙縫中。此細胞淡染的主要原因是細胞內的顆粒無法固定。",
+      "description": "試問箭頭所指的細胞為何？"
+      },
+      {
+      "num": "b07quiz-13",
+      "path": "b07quiz-13.png",
+      "answer": [
+        "Spermatogonia"
+      ],
+      "explanation": "此圖很明顯為semiferous tubule，且緊鄰basla lamina，核圓且核仁不是特別清楚，故可判斷為spermatogonia。",
+      "description": "試問箭頭所指的細胞為何？"
+      },
 ]
