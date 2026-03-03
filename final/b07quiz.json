@@ -8,4 +8,58 @@
       "explanation": "分布於ovary的cortex淺層處且oocyte外面有扁平狀follicular cell 包圍住的為 primordial follicle；有 zona pellucida 圍繞在 oocyte 且 follicular cell 呈單層 cuboid 狀的為early primary follicle。",
       "description": "寫出綠色及白色圓圈所指範圍之構造名稱。 "
       },
+      {
+      "num": "b07quiz-02",
+      "path": "b07quiz-02.png",
+      "answer": [
+        "Zona glomerulosa"
+      ],
+      "explanation": "圖示為adrenal gland的 capsule和部分 cortex。淡粉色的 capsule 下方是 zona glomerulosa，為 simple columnar  epithelium，聚集成團狀，是cortex中最薄的。",
+      "description": "紅色框框的區域名稱？ "
+      },
+      {
+      "num": "b07quiz-03",
+      "path": "b07quiz-03.png",
+      "answer": [
+        "A"
+      ],
+      "explanation": "Early active 的 gland 相較於 inactive時稍微有發展，但是 CNT和adipose tissue 仍多。Lobule還沒完全發展、膨脹， 可明顯分出duct和 alveoli，通常管道旁邊會有CNT包覆。 ",
+      "description": " 試問A或B哪一個是active mammary gland？"
+      },
+      {
+      "num": "b07quiz-04",
+      "path": "b07quiz-04.png",
+      "answer": [
+        "Tunica albuginea, dense connective tissue"
+      ],
+      "explanation": "此圖下方有許多follicle，故可判斷為ovary。藍色箭頭區域中沒有濾泡，故可知是cortex之上的部分，且非 epithelium，為 tunica albuginea，含大量 collagen fober。",
+      "description": " 試問箭頭區域的結構為何？是哪一種組織（Be specific）？"
+      },
+      {
+      "num": "b07quiz-05",
+      "path": "b07quiz-05.png",
+      "answer": [
+        "Epididymis, pseudostratified columnar epi. with stereocilia"
+      ],
+      "explanation": "此圖可方便觀察ductus efferentes（左）與 epididymis（右）的差異。 左側的ductus efferentes 之上皮高低不齊，破碎呈星狀；右 側的epididymis則有平整高上皮。 ",
+      "description": "寫出器官名稱及上皮種類（Be specific）。"
+      },
+      {
+      "num": "b07quiz-06",
+      "path": "b07quiz-06.png",
+      "answer": [
+        "Intervillous space"
+      ],
+      "explanation": "判斷方式為明顯的villi層狀結構，外層的深染多核 syncytiotrophoblast，在內層較淡染而大的 cytotrophoblast， villi 內的 mesenchymal cell，深染的 macrophage，以及 tertiary villi 中的 capillary 浸潤。 所以這裡是placenta，villi間的空間就稱為intervillous space，裡面也可以觀察到血球。 ",
+      "description": "寫出星號所指的區域名稱。 "
+      },
+      {
+      "num": "b07quiz-07",
+      "path": "b07quiz-07.png",
+      "answer": [
+        "Vagina"
+      ],
+      "explanation": "可見有核的非角質化複層扁平上皮，內部多glycogen因此呈現空染狀。下方為dense CNT的lamina propria，在右下角有venous sinus。",
+      "description": "試問下圖為何種器官？"
+      },
 ]
