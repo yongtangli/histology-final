@@ -116,4 +116,22 @@
       "explanation": "此圖很明顯為semiferous tubule，且緊鄰basla lamina，核圓且核仁不是特別清楚，故可判斷為spermatogonia。",
       "description": "試問箭頭所指的細胞為何？"
       },
+      {
+      "num": "b07quiz-14",
+      "path": "b07quiz-14.png",
+      "answer": [
+        "Oviduct; uterine tube; Fallopian tube "
+      ],
+      "explanation": "此為simple columnar epithelium。如：Oviduct、uterine tube、Fallopian tube ",
+      "description": "試問下列上皮會出現在何種女性生殖器官裡？"
+      },
+      {
+      "num": "b07quiz-15",
+      "path": "b07quiz-15.png",
+      "answer": [
+        "Herring body (in the posterior pituitary gland)"
+      ],
+      "explanation": "由此處佈滿axon且出現Herring body所以能看出這是pars nervosa。Pituitary gland 的 pars nervosa（淡染部分），可以看到粉紅色的實心構造Herring body，是neurosecretory  vesicles 堆積於 axon terminal 所形成的膨大構造。Herring  body有大有小，容易和成群的red blood cells搞混，可尋找比red blood cells 大的 Herring body 觀察，或是利用旁邊有 無endothelial cell 判斷（Herring body 無，red blood cells 有）。  ",
+      "description": "寫出箭頭所指的構造。"
+      },
 ]
