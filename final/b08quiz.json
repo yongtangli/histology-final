@@ -1,1 +1,103 @@
+[
+      {
+      "num": "b08quiz-01",
+      "path": "b08quiz-01.png",
+      "answer": [
+        "Interstitial gland,Ovary"
+      ],
+      "explanation": "Ovary組織切片可以觀察到細胞核較圓、細胞核間距較大的群聚細胞，周圍被核扁平、細胞核間距較小的結締組織包圍，可判定為interstitial gland。Interstitial gland 是一團散佈在 stroma 間的類上皮細胞，由濾泡退化後未被分解而留在卵巢皮質的theca interna 組成。",
+      "description": "視野下所圍區域為何構造？器官為何？"
+      },
+      {
+      "num": "b08quiz-02",
+      "path": "b08quiz-02.png",
+      "answer": [
+        "Chromaffin cell"
+      ],
+      "explanation": "腎上腺髓質的細胞因為有嗜鉻的特性，在Zenker-formalin 的染色下呈現深棕色。（且在視野下能看到所圍區域中有血管的分佈，應為adrenal gland中medulla的central vein）",
+      "description": " 箭頭所指細胞名稱為何? "
+      },
+      {
+      "num": "b08quiz-03",
+      "path": "b08quiz-03.png",
+      "answer": [
+        "Primary spermatocyte"
+      ],
+      "explanation": "大顆且可見細絲狀染色質即為primary spermatocyte。",
+      "description": " 箭號所指細胞名稱為何? "
+      },
+      {
+      "num": "b08quiz-04",
+      "path": "b08quiz-04.png",
+      "answer": [
+        "Corpus luteum"
+      ],
+      "explanation": "充滿 CNT、adipose tissue。",
+      "description": "下圖為何構造? "
+      },
+      {
+      "num": "b08quiz-05",
+      "path": "b08quiz-05.png",
+      "answer": [
+        "Granulosa cell"
+      ],
+      "explanation": "出現pyknotic nuclei，且細胞看起來脫落至antrum中。",
+      "description": " 下圖中卵細胞發生什麼變化? "
+      },
+      {
+      "num": "b08quiz-06",
+      "path": "b08quiz-06.png",
+      "answer": [
+        "Macula"
+      ],
+      "explanation": "此處為vestibule，側邊增厚處為macula，上有otolithic membrane，可與endolymph 產生相對位移而引發感覺。",
+      "description": "寫出虛線範圍內構造名稱? "
+      },
+      {
+      "num": "b08quiz-07",
+      "path": "b08quiz-07.png",
+      "answer": [
+        "Peg cell (non-ciliated epithelium cell)"
+      ],
+      "explanation": "細胞呈圓拱狀突向lumen，沒有一絲一絲紅色線條的basal body，為具分泌功能的peg cell。 ",
+      "description": "橘色框線內之細胞名稱? "
+      },
+      {
+      "num": "b08quiz-09",
+      "path": "b08quiz-09.png",
+      "answer": [
+        "Cytotrophoblast"
+      ],
+      "explanation": "在 villi 的邊緣可見 cytotrophoblast位於 syncytiotrophoblast的內側，細胞圓、淡染、單核、體積較大。 ",
+      "description": " 寫出箭頭所指細胞? "
+      },
+      {
+      "num": "b08quiz-10",
+      "path": "b08quiz-10.png",
+      "answer": [
+        "Acidophils"
+      ],
+      "explanation": "在pituitary gland 的 pars distalis（深染部分），可以看到 3 種細胞： Acidophil：細胞較 basophils小，細胞質呈紅色。 Basophil：細胞較acidophils大，細胞質呈藍紫色。 Chromophobes：細胞質極淡染，僅可見其細胞核。",
+      "description": "寫出虛線範圍內細胞名稱? "
+      },
+      {
+      "num": "b08quiz-11",
+      "path": "b08quiz-11.png",
+      "answer": [
+        "Ora serrata"
+      ],
+      "explanation": "Ora serrata 往前為 cecal part，無法感光且層數不明顯，約只有兩層cuboidal，往後為optic part，可感光，細胞較多層。 ",
+      "description": "寫出整個藍色範圍的junction名稱? "
+      },
+      {
+      "num": "b08quiz-12",
+      "path": "b08quiz-12.png",
+      "answer": [
+        "Seminal vesicle"
+      ],
+      "explanation": "特徵為交錯複雜的長條形蜂窩狀結構，而prostate gland的smooth muscle 比較多。 ",
+      "description": "寫出視野下的器官名稱? "
+      },
+      
+]
 
