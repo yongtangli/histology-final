@@ -98,6 +98,60 @@
       "explanation": "特徵為交錯複雜的長條形蜂窩狀結構，而prostate gland的smooth muscle 比較多。 ",
       "description": "寫出視野下的器官名稱? "
       },
+      {
+      "num": "b08quiz-13",
+      "path": "b08quiz-13.png",
+      "answer": [
+        "Herring body"
+      ],
+      "explanation": "由此處佈滿axon且出現Herring body所以能看出這是pars nervosa。Pituitary gland 的 pars nervosa（淡染部分），可以看到粉紅色的實心構造Herring body，是neurosecretory  vesicles 堆積於 axon terminal 所形成的膨大構造。Herring  body 有大有小，易和成群的red blood cells搞混，可尋找 比 red blood cells 大的 Herring body，或是利用旁邊有無endothelial cell 判斷（Herring body 無，紅血球有）。 ",
+      "description": "寫出箭頭所指構造名稱? "
+      },
+      {
+      "num": "b08quiz-14",
+      "path": "b08quiz-14.png",
+      "answer": [
+        "Stria vascularis"
+      ],
+      "explanation": "在spiral ligament（為 cochlea epi.的增生）表面，製造endolymph、運送鉀離子。是人體少數epithelium內的血管。富含粒線體，在H&E下呈紅色。",
+      "description": "寫出箭號所指之構造名稱? "
+      },
+      {
+      "num": "b08quiz-16",
+      "path": "b08quiz-16.png",
+      "answer": [
+        "Zona glomerulosa,Adrenal gland"
+      ],
+      "explanation": "淡紅色capsule下層，細胞為simple columnar epithelium，會聚集成球狀。",
+      "description": "指針所指區域為何? 在何種器官? "
+      },
+      {
+      "num": "b08quiz-17",
+      "path": "b08quiz-17.png",
+      "answer": [
+        "Organ of Corti"
+      ],
+      "explanation": "面向scala media的 organ of Corti 上有 tectorial membrane和inner hair cell 等構造。 ",
+      "description": "請問視野下為何種構造? "
+      },
+      {
+      "num": "b08quiz-18",
+      "path": "b08quiz-18.png",
+      "answer": [
+        "Follicular cell of thyroid gland"
+      ],
+      "explanation": "在follicle 旁較小、核較深染的細胞。 ",
+      "description": "藍色箭頭所指細胞為何? "
+      },
+      {
+      "num": "b08quiz-19",
+      "path": "b08quiz-19.png",
+      "answer": [
+        "Ciliary body/Ciliary process"
+      ],
+      "explanation": "此為ciliary body（睫狀體）的ciliary process，其特徵為double layered cuboidal epithelium，淺層（outer）有色素， 深層（inner）則沒有；在stroma中可以看到血管。 功能為分泌aqueous humor，使光線到達retina；以及延伸出zonular fiber，形成 suspensory ligament 連接到 lens。",
+      "description": "寫出指針所指構造名稱? "
+      },
       
 ]
 
