@@ -62,6 +62,15 @@
       "explanation": "超級厚的平滑肌層，若仔細看，可以看到分三層，內縱中環外縱。管內上皮也被擠出像是梅花的形狀。",
       "description": " 請問圖中構造為何？"
       },
+      {
+      "num": "b03lab-08",
+      "path": "b03lab-08.png",
+      "answer": [
+        "Cornea"
+      ],
+      "explanation": "非常漂亮且標準的角膜切片，corneal epithelium與中間很厚的corneal stroma 為特徵。注意空腔不是血管，是artifact，cornea 的 stroma沒有血管。 Cornea 從上到下分成五層：corneal epithelium → Bowman’s membrane → corneal stroma →Descemet’s membrane → endothelium。 ",
+      "description": "請問圖中構造為何？ "
+      },
       
       
 ]
