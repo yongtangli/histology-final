@@ -71,6 +71,24 @@
       "explanation": "非常漂亮且標準的角膜切片，corneal epithelium與中間很厚的corneal stroma 為特徵。注意空腔不是血管，是artifact，cornea 的 stroma沒有血管。 Cornea 從上到下分成五層：corneal epithelium → Bowman’s membrane → corneal stroma →Descemet’s membrane → endothelium。 ",
       "description": "請問圖中構造為何？ "
       },
+      {
+      "num": "b03lab-09",
+      "path": "b03lab-09.png",
+      "answer": [
+        "Stria vascularis"
+      ],
+      "explanation": "位於cochlear duct 表面的特化上皮就是stria vascularis，其中有豐富的capillary，功能是製造分泌endolymph，圖右可見organ of Corti。 ",
+      "description": " 請問箭頭所指的構造為何？"
+      },
+      {
+      "num": "b03lab-10",
+      "path": "b03lab-10.png",
+      "answer": [
+        "Oviduct（uterine tube）"
+      ],
+      "explanation": "高度扭曲分支的上皮，內環外縱的平滑肌可看出是輸卵管。",
+      "description": "下列整個構造為何？"
+      },
       
       
 ]
