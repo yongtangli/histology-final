@@ -89,6 +89,33 @@
       "explanation": "高度扭曲分支的上皮，內環外縱的平滑肌可看出是輸卵管。",
       "description": "下列整個構造為何？"
       },
+      {
+      "num": "b03lab-11",
+      "path": "b03lab-11.png",
+      "answer": [
+        "Tunica albuginea"
+      ],
+      "explanation": "右側為 corpus cavernosa，包裹在其外的組織即為tunica albuginea，充滿 collagen fiber 因此特殊染色呈現藍綠色。",
+      "description": "箭頭所指的構造為何？"
+      },
+      {
+      "num": "b03lab-12",
+      "path": "b03lab-12.png",
+      "answer": [
+        "Scrotum"
+      ],
+      "explanation": "此為Orcein-Picroindigocarmine-Carmine stain，視野中可見含有pigment cells 的 epidermis、富含 collagen fiber的 dermis以及不含fat cell的 subcutaneous layer。 ",
+      "description": "下列組織可見於何種器官？"
+      },
+      {
+      "num": "b03lab-13",
+      "path": "b03lab-13.png",
+      "answer": [
+        "Prostate gland"
+      ],
+      "explanation": "由豐富的smooth muscle還有prostatic concretion（Corpora amylacea）可以判斷。 ",
+      "description": "下列組織可見於何種器官？"
+      },
       
       
 ]
