@@ -1,1 +1,41 @@
+[
+      {
+      "num": "b03lab-01",
+      "path": "b03lab-01.png",
+      "answer": [
+        "Inactive mammary gland"
+      ],
+      "explanation": "大量的脂肪組織與環繞在TDLU外的myoepithelial cell為特徵，中間萎縮的TDLU可以判斷為inactive。",
+      "description": " 以下構造為何？（要分時期）"
+      },
+      {
+      "num": "b03lab-02",
+      "path": "b03lab-02.png",
+      "answer": [
+        "Corpus spongiosum"
+      ],
+      "explanation": "圖中央為尿道上皮，屬於stratified columnar epithelium。",
+      "description": "下圖整個構造為何？ "
+      },
+      {
+      "num": "b03lab-03",
+      "path": "b03lab-03.png",
+      "answer": [
+        "Chromaffin cell"
+      ],
+      "explanation": "箭頭指的是medulla，medulla中核小深染的為chromaffin cell，較大的為ganglion cell。 ",
+      "description": " 箭頭所指的細胞為何？"
+      },
+      {
+      "num": "b03lab-04",
+      "path": "b03lab-04.png",
+      "answer": [
+        "Vagina"
+      ],
+      "explanation": "可見有核的非角質化複層扁平上皮，內部多glycogen因此呈現空染狀。下方為dense CNT的lamina propria，在右下角有venous sinus。 ",
+      "description": " 下列構造為何？"
+      },
+      
+      
+]
 
