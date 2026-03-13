@@ -188,6 +188,70 @@
       "explanation": "可以看到裡面有許多follicle 故應為ovary。",
       "description": "寫出視野下器官名稱? "
       },
+      {
+      "num": "b08quiz-28",
+      "path": "b08quiz-28.png",
+      "answer": [
+        "Vas deferens"
+      ],
+      "explanation": "有很厚平滑肌層且其厚度可達lumen 3~5倍以上。",
+      "description": "指針所指的器官為何?"
+      },
+      {
+      "num": "b08quiz-29",
+      "path": "b08quiz-29.png",
+      "answer": [
+        "Outer plexiform layer"
+      ],
+      "explanation": "夾在兩層顏色較深較厚、明顯有顆粒的outer和inner nuclear layer 之間就是 outer plexiform layer。",
+      "description": "寫出箭頭範圍內的層次名稱? "
+      },
+      {
+      "num": "b08quiz-31",
+      "path": "b08quiz-31.png",
+      "answer": [
+        "Tarsal gland"
+      ],
+      "explanation": "位於角膜下方且可見palpebral conjunctiva，故為tarsal gland。Tarsal glands（為皮脂腺）有管道連通到tarsal plate，分泌淚液的部分成分。",
+      "description": "寫出箭頭所指的腺體名稱？（Be specific）"
+      },
+      {
+      "num": "b08quiz-32",
+      "path": "b08quiz-32.png",
+      "answer": [
+        "Zona pellucida"
+      ],
+      "explanation": "位在oocyte以及follicular cell 之間呈亮粉色帶狀者為zona pellucida。 ",
+      "description": "寫出箭頭所指的構造名稱？（Be specific） "
+      },
+      {
+      "num": "b08quiz-33",
+      "path": "b08quiz-33.png",
+      "answer": [
+        "Retinal pigment epithelium"
+      ],
+      "explanation": "最靠近choroid，和Bruch’s membrane相連，是retina十層中的第一層。 ",
+      "description": "寫出黃色箭頭所指之細胞名稱? "
+      },
+      {
+      "num": "b08quiz-34",
+      "path": "b08quiz-34.png",
+      "answer": [
+        "Prostate gland"
+      ],
+      "explanation": "年老的prostate gland在每個 prostatic alveoli 外都可以看到厚厚的smooth muscle包圍，可觀察到prostatic concretion。",
+      "description": "寫出此器官名稱? "
+      },
+      {
+      "num": "b08quiz-35",
+      "path": "b08quiz-35.png",
+      "answer": [
+        "Spiral ganglion"
+      ],
+      "explanation": "耳蝸骨質部分的神經細胞，位於scala tympani 和scala vestibuli 的內側。",
+      "description": "寫出箭頭所指的組織名稱？（Be specific）"
+      },
+      
       
 ]
 
