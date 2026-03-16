@@ -116,6 +116,126 @@
       "explanation": "由豐富的smooth muscle還有prostatic concretion（Corpora amylacea）可以判斷。 ",
       "description": "下列組織可見於何種器官？"
       },
+      {
+      "num": "b03lab-14",
+      "path": "b03lab-14.png",
+      "answer": [
+        "A：Spermatid B：Spermatozoa"
+      ],
+      "explanation": "A呈現球狀，無明顯尾部，應為spermatid；B則呈現細長型，應為spermatozoa。 ",
+      "description": "A箭頭為何？B箭頭為何？"
+      },
+      {
+      "num": "b03lab-15",
+      "path": "b03lab-15.png",
+      "answer": [
+        "Acidophil"
+      ],
+      "explanation": "此為腦垂腺前葉切片，視野下呈粉紅色之細胞即為acidophil。 ",
+      "description": "指針所指細胞為何？"
+      },
+      {
+      "num": "b03lab-16",
+      "path": "b03lab-16.png",
+      "answer": [
+        "Central adrenomedullary vein"
+      ],
+      "explanation": "由圖可知為位在adrenal medulla中的大型管道，呈不規則形狀，並有內皮細胞圍繞，可知為central adrenomedullary vein。",
+      "description": "箭頭所指的構造為何？"
+      },
+      {
+      "num": "b03lab-17",
+      "path": "b03lab-17.png",
+      "answer": [
+        "Stratum granulosum（Membrana granulosa）"
+      ],
+      "explanation": "細胞數量非常多而密集，右側即為follicle內部空腔，故可知該層必為stratum granulosum，因此虛線左側為theca interna。 ",
+      "description": "箭頭所指的構造為何？ "
+      },
+      {
+      "num": "b03lab-18",
+      "path": "b03lab-18.png",
+      "answer": [
+        "Leydig cell"
+      ],
+      "explanation": "位於seminiferous tubules 之間，細胞大且為嗜酸性染色。",
+      "description": "A框框的箭頭所指的是什麼細胞？"
+      },
+      {
+      "num": "b03lab-19",
+      "path": "b03lab-19.png",
+      "answer": [
+        "Proliferative phase of uterus"
+      ],
+      "explanation": "本切片無法直接辨認出early或late，但因為glands相對比較直，因此比較接近early。",
+      "description": "此為何種構造？（須註明時期）"
+      },
+      {
+      "num": "b03lab-20",
+      "path": "b03lab-20.png",
+      "answer": [
+        "Ductus efferentes"
+      ],
+      "explanation": "管腔呈星狀，且高低不平為其最大特徵。",
+      "description": "此為何種構造？"
+      },
+      {
+      "num": "b03lab-21",
+      "path": "b03lab-21.png",
+      "answer": [
+        "Pseudostratified columnar epithelium with stereocilia"
+      ],
+      "explanation": "cilia 高低不一，且頂端會圍出一圈粉紅色的東西。此為epididymis 的切片。",
+      "description": "此為何種上皮組織？ "
+      },
+      {
+      "num": "b03lab-22",
+      "path": "b03lab-22.png",
+      "answer": [
+        "Parafollicular cell"
+      ],
+      "explanation": "周圍可見 thyroid follicle 以及 colloid，在 follicle 之間呈現淡染大顆的細胞就是parafollicular cell。",
+      "description": "箭頭所指為何種細胞？"
+      },
+      {
+      "num": "b03lab-23",
+      "path": "b03lab-23.png",
+      "answer": [
+        "Seminal vesicle"
+      ],
+      "explanation": "可見外圍的平滑肌壁、呈現蜂窩狀的mucosal folds還有中間的lumen。 ",
+      "description": "此為何種構造？"
+      },
+      {
+      "num": "b03lab-24",
+      "path": "b03lab-24.png",
+      "answer": [
+        "Nabothian cyst"
+      ],
+      "explanation": "一團實心的東西堵住cervical gland的開口，通常位置會靠近ectocervix 的表面。",
+      "description": "箭頭所指的為何種構造？"
+      },
+      {
+      "num": "b03lab-25",
+      "path": "b03lab-25.png",
+      "answer": [
+        "Conjunctiva"
+      ],
+      "explanation": "圖片下方有stratified columnar epithelium with goblet cells 以及tarsal glands。",
+      "description": "視野下的構造是什麼？"
+      },
+      {
+      "num": "b03lab-26",
+      "path": "b03lab-26.png",
+      "answer": [
+        "Scala media"
+      ],
+      "explanation": "箭頭所指空腔中有organ of Corti。 上中下三個腔室分別為scala vestibuli、scala media以及 scala tympani。",
+      "description": "箭頭所指的區域為何？ "
+      },
+      
+      
+      
       
       
 ]
