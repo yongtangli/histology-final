@@ -251,6 +251,33 @@
       "explanation": "視野下可以看見thyroid follicles以及其中的colloids。",
       "description": "視野下為何種器官？"
       },
+      {
+      "num": "b04lab-29",
+      "path": "b04lab-29.png",
+      "answer": [
+        "Lens; anterior"
+      ],
+      "explanation": "Lens 細胞核越往中間堆積會越成熟，越成熟就越沒有細胞核，所以越往中間的細 胞核就會較少。圖中可見細胞核，故為anterior。 ",
+      "description": "圈內構造？Anterior還是posterior？"
+      },
+      {
+      "num": "b04lab-30",
+      "path": "b04lab-30.png",
+      "answer": [
+        "Cervix"
+      ],
+      "explanation": "圖左側為陰道，右側為子宮頸，下方可見cervical gland。中間上皮型態轉折的地方稱為transitional zone。 ",
+      "description": "視野下器官名稱？"
+      },
+      {
+      "num": "b04lab-31",
+      "path": "b04lab-31.png",
+      "answer": [
+        "Vagina"
+      ],
+      "explanation": "Non-cornified stratified squamous epithelium。",
+      "description": "視野下器官名稱？"
+      },
       
       
       
