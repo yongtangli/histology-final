@@ -233,6 +233,69 @@
       "explanation": "箭頭所指空腔中有organ of Corti。 上中下三個腔室分別為scala vestibuli、scala media以及 scala tympani。",
       "description": "箭頭所指的區域為何？ "
       },
+      {
+      "num": "b03lab-27",
+      "path": "b03lab-27.png",
+      "answer": [
+        "Retina"
+      ],
+      "explanation": "retina 分成十層，看到非常多層不同細胞組成的構造就是retina。",
+      "description": "框框內的構造是什麼？"
+      },
+      {
+      "num": "b03lab-28",
+      "path": "b03lab-28.png",
+      "answer": [
+        "Retinal pigment layer"
+      ],
+      "explanation": "在choroid正上方，細胞顏色明顯深染的一層即為retinal pigment layer。 ",
+      "description": "箭頭所指的這層構造為何？"
+      },
+      {
+      "num": "b03lab-29",
+      "path": "b03lab-29.png",
+      "answer": [
+        "Organ of Corti"
+      ],
+      "explanation": "介於scala media以及 scala tympani之間的構造即為organ of Corti。",
+      "description": "框框裡的構造是什麼？"
+      },
+      {
+      "num": "b03lab-30",
+      "path": "b03lab-30.png",
+      "answer": [
+        "Cupula"
+      ],
+      "explanation": "視野下的構造為crista ampullaris，其上會覆有一層透明狀的cupula。 ",
+      "description": "箭頭所指構造是什麼？"
+      },
+      {
+      "num": "b03lab-31",
+      "path": "b03lab-31.png",
+      "answer": [
+        "Spiral ganglion"
+      ],
+      "explanation": "圖片右方為organ of Corti，spiral ganglion 是 cochlear nerve的ganglion。 ",
+      "description": "箭頭所指的構造為何？"
+      },
+      {
+      "num": "b03lab-32",
+      "path": "b03lab-32.png",
+      "answer": [
+        "Spiral artery"
+      ],
+      "explanation": "Spiral artery 剛好切到的時候會看到一堆連續的圓圈血管橫斷面，此為secretory phase uterus 切片。",
+      "description": "箭頭所指的構造為何？"
+      },
+      {
+      "num": "b03lab-33",
+      "path": "b03lab-33.png",
+      "answer": [
+        "Schlemm’s canal"
+      ],
+      "explanation": "在靠近 sclera和 cornea交界的地方會出現空洞狀的管腔，可以回收水狀液，名為Schlemm’s canal。 而Trabecular meshwork 則是在 cornea最內層的 endothelium的空洞狀構造。",
+      "description": "箭頭所指的構造為何？"
+      },
       
       
       
