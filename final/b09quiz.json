@@ -1,1 +1,25 @@
+[
+      {
+      "num": "b09quiz-01",
+      "path": "b09quiz-01.png",
+      "answer": [
+        "Acidophil"
+      ],
+      "explanation": "pituitary gland 的 pars distalis(深染部分)，可看到 3種細胞:  Acidophil : 細胞較 basophils 小，細胞質呈紅色。  Basophil : 細胞較 acidophils 大，細胞質呈藍紫色。  Chromophobes : 細胞質極淡染，僅可見其細胞核。  此圖所指為紅色的 Acidophil。  ",
+      "description": "請問箭頭所指細胞種類名稱？ "
+      },
+      {
+      "num": "b09quiz-02",
+      "path": "b09quiz-02.png",
+      "answer": [
+        "Antrum"
+      ],
+      "explanation": "Secondary follicle 裡面的空泡狀結構，內含許多 granulosa cell 分泌的液體。",
+      "description": "請問箭頭所指圈狀構造名稱？"
+      },
+      
+      
+      
+]
+
 
